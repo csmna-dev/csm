@@ -41,7 +41,7 @@
             "id":1,
             "titolo":"Chiesa e ambienti annessi",
             "descrizione":"",
-            "sottoelementi":[
+            "sottolivelli":[
               {
                 "id":1,
                 "titolo":"Sacrestia",
@@ -93,7 +93,7 @@
               "id":2,
               "titolo":"Quarto del Priore",
               "descrizione":"",
-              "sottoelementi":{
+              "sottolivelli":{
   
               }
            },
@@ -101,7 +101,7 @@
               "id":3,
               "titolo":"Chiostro Grande",
               "descrizione":"Il chiostro grande rappresenta il cuore della vita certosina e permette di comprenderne il funzionamento. Le porte che lo circondano davano, infatti, accesso alle celle dove abitavano i monaci, ciascun padre disponeva quindi di uno spazio piuttosto ampio dove poteva lavorare e pregare, secondo le indicazioni del motto “ora et labora”.",
-              "sottoelementi":[
+              "sottolivelli":[
                 {  
                   "id":1,
                   "titolo":"Sotterranei gotici",
@@ -133,7 +133,7 @@
               "id":4,
               "titolo":"Farmacia",
               "descrizione":"",
-              "sottoelementi":{
+              "sottolivelli":{
   
               }
            },
@@ -141,7 +141,7 @@
               "id":5,
               "titolo":"Museo dell'Opera",
               "descrizione":"",
-              "sottoelementi":{
+              "sottolivelli":{
   
               }
            },
@@ -149,7 +149,7 @@
               "id":6,
               "titolo":"Terrazza e giardini",
               "descrizione":"",
-              "sottoelementi":{
+              "sottolivelli":{
   
               }
            },
@@ -157,7 +157,7 @@
               "id":7,
               "titolo":"Refettorio",
               "descrizione":"",
-              "sottoelementi":{
+              "sottolivelli":{
   
               }
            },
@@ -165,7 +165,7 @@
               "id":8,
               "titolo":"Chiostro dei Procuratori",
               "descrizione":"",
-              "sottoelementi":{
+              "sottolivelli":{
                  "sottoelem1":{
                     "titolo":"Stemmi",
                     "descrizione":""
@@ -176,7 +176,7 @@
               "id":9,
               "titolo":"Chiesa delle donne",
               "descrizione":"",
-              "sottoelementi":{
+              "sottolivelli":{
   
               }
            },         
@@ -184,7 +184,7 @@
               "id":10,
               "titolo":"Cortile delle carrozze",
               "descrizione":"",
-              "sottoelementi":{
+              "sottolivelli":{
   
               }
            },
@@ -192,7 +192,7 @@
               "id":11,
               "titolo":"Storia dell'ordine certosino",
               "descrizione":"Questo ordine religioso nacque nel 1084, quando Bruno di Colonia, con alcuni compagni, si stabilì vicino Grenoble, a Cartusia, poi Chartreuse, da cui l’italiano certosa. Il piccolo gruppo visse adottando il motto benedettino “Ora et labora”, quindi dedicandosi alla preghiera e al lavoro ma anche alternando momenti di vita eremitica, in solitudine e silenzio, a momenti di vita cenobitica, ovvero in comunità. L’architettura dei monasteri certosini, cioè delle certose, con l’articolazione degli spazi interni ed esterni, risponde quindi alle particolari esigenze di vita dei monaci, esigenze che scaturiscono proprio dall’ideale perseguito, pregare e lavorare da un lato, ma anche alternare momenti di solitudine a momenti di vita comunitaria.",
-              "sottoelementi":{
+              "sottolivelli":{
   
               }
            }
@@ -228,7 +228,7 @@
               "id":1,
               "titolo":"Stemmi",
               "descrizione":"",
-              "sottoelementi":{
+              "sottolivelli":{
   
               }
            },
@@ -236,7 +236,7 @@
               "id":2,
               "titolo":"Cortile delle carrozze",
               "descrizione":"",
-              "sottoelementi":{
+              "sottolivelli":{
               }
            }
         ]
