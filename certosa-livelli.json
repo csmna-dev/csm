@@ -84,7 +84,7 @@
       {
          "id":2,
          "titolo":"Museo",
-         "descrizione":"Negli ambienti delle suggestive quanto architettonicamente ardite fondamenta trecentesche della Certosa, è esposta una collezione di marmi: sculture che abbracciano un arco temporale che va dal Trecento al Settecento ed epigrafi che raccontano pagine di storia della città.",
+         "descrizione":"",
          "sottolivelli":[
             {
                "id":1,
@@ -160,7 +160,7 @@
             },
             {
                "id":10,
-               "titolo":"",
+               "titolo":"Sotterranei gotici",
                "descrizione":"Negli ambienti delle suggestive quanto architettonicamente ardite fondamenta trecentesche della Certosa, è esposta una collezione di marmi: sculture che abbracciano un arco temporale che va dal Trecento al Settecento ed epigrafi che raccontano pagine di storia della città.",
                "sottolivelli":[
 
