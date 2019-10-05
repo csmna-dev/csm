@@ -5,7 +5,7 @@
       {
          "id":1,
          "titolo":"Certosa",
-         "descrizione":"Costruita a partire dal 1325, nel corso dei secoli la certosa ha visto succedersi i principali protagonisti delle arti a Napoli: pittori, scultori, architetti e artigiani hanno lasciato pregevoli testimonianze del loro lavoro nell’articola successione degli ambienti, rendendo il complesso un &lt;i&gt;unicum&lt;/i&gt; per eleganza di forme e ricchezza decorativa.",
+         "descrizione":"Costruita a partire dal 1325, nel corso dei secoli la certosa ha visto succedersi i principali protagonisti delle arti a Napoli: pittori, scultori, architetti e artigiani hanno lasciato pregevoli testimonianze del loro lavoro nell’articola successione degli ambienti, rendendo il complesso un <i>unicum</i> per eleganza di forme e ricchezza decorativa.",
          "sottolivelli":[
             {
                "id":1,
@@ -42,7 +42,7 @@
             {
                "id":5,
                "titolo":"Spezieria",
-               "descrizione":"Una collezione di vasi di diverse forme e funzioni, spesso riccamente decorati, e un affresco con &lt;i&gt;San Bruno, fondatore dell’ordine, che intercede presso la Vergine per tutti gli infermi&lt;/i&gt; testimoniano l’importanza che i monaci davano alle preparazioni farmaceutiche.",
+               "descrizione":"Una collezione di vasi di diverse forme e funzioni, spesso riccamente decorati, e un affresco con <i>San Bruno, fondatore dell’ordine, che intercede presso la Vergine per tutti gli infermi</i> testimoniano l’importanza che i monaci davano alle preparazioni farmaceutiche.",
                "sottolivelli":[
 
                ]
@@ -153,7 +153,7 @@
             {
                "id":9,
                "titolo":"Androne delle Carrozze",
-               "descrizione":"Nell'ambiente di passaggio verso i giardini, sono esposte le carrozze degli Eletti del Popolo e della regina Maria Cristina di Savoia, insieme a stemmi reali e vicereali di grandi dimensioni e alla cosiddetta &lt;i&gt;colonna infame&lt;/i&gt;, ovvero la colonna davanti alla quale venivano pubblicamente umiliati i debitori insolventi.",
+               "descrizione":"Nell'ambiente di passaggio verso i giardini, sono esposte le carrozze degli Eletti del Popolo e della regina Maria Cristina di Savoia, insieme a stemmi reali e vicereali di grandi dimensioni e alla cosiddetta <i>colonna infame</i>, ovvero la colonna davanti alla quale venivano pubblicamente umiliati i debitori insolventi.",
                "sottolivelli":[
 
                ]
