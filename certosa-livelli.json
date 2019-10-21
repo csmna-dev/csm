@@ -12,6 +12,7 @@
          "titolo":"Certosa",
          "descrizione":"Costruita a partire dal 1325, nel corso dei secoli la certosa ha visto succedersi i principali protagonisti delle arti a Napoli: pittori, scultori, architetti e artigiani hanno lasciato pregevoli testimonianze del loro lavoro nell’articola successione degli ambienti, rendendo il complesso un <i>unicum</i> per eleganza di forme e ricchezza decorativa.",
          "gallery": {
+            "main": "",
             "copertina": "certosa/headercertosa.jpeg",
             "album": []
          },
@@ -21,7 +22,7 @@
                "titolo":"Chiesa e ambienti annessi",
                "descrizione":"La chiesa è uno dei luoghi i più rappresentativi del Barocco napoletano: tecniche e stili diversi si avvicendano e,  senza soluzione di continuità, lo spazio si riempie di tarsie marmoree, stucchi, dipinti e sculture realizzati dai principali artisti attivi a Napoli, nel corso di quasi due secoli. L’articolazione di ambienti come i Cori dei Padri e dei Conversi, la Sagrestia, le Cappelle del Tesoro, la sala del Capitolo e il Parlatorio racconta della vita dei monaci certosini improntata al rispetto di una peculiare regola monastica.",
                "gallery": {
-                  "main": "",
+                  "main": "certosa/hchiesaeambientiannessi_main.jpg",
                   "copertina": "certosa/hchiesaeambientiannessi.jpg",
                   "album": []
                 },
@@ -34,7 +35,7 @@
                "titolo":"Chiostro grande",
                "descrizione":"Il chiostro rappresenta il vero e proprio cuore della vita monastica. Lo spazio, scandito dal ritmo di archi e colonne, ospitava le celle dei Padri, ora trasformate in spazi espositivi, nonché l’ultima dimora dei monaci, il cimitero.",
                "gallery": {
-                  "main": "",
+                  "main": "certosa/hchiostrogrande_main.jpg",
                   "copertina": "certosa/hchiostrogrande.jpg",
                   "album": []
                 },
@@ -47,7 +48,7 @@
                "titolo":"Museo dell'Opera",
                "descrizione":"Diversi ambienti un tempo adibiti a celle dei monaci, oggi ospitano dipinti, sculture e altri oggetti che raccontano alcuni momenti della vita della certosa e permettono di cogliere importanti passaggi della storia del complesso monastico.",
                "gallery": {
-                  "main": "",
+                  "main": "certosa/hmuseoopera_main.jpg",
                   "copertina": "certosa/hmuseoopera.jpg",
                   "album": []
                 },
@@ -60,7 +61,7 @@
                "titolo":"Chiostro dei Procuratori",
                "descrizione":"Archi su solidi pilastri in pietra vulcanica scandiscono questo spazio che ospita diversi stemmi provenienti dai palazzi che si trovavano nella cosiddetta città bassa, rimossi nell’ambito dei lavori di risanamento di fine Ottocento.",
                "gallery": {
-                  "main": "",
+                  "main": "certosa/hchiostroprocuratori.jpg",
                   "copertina": "certosa/hchiostroprocuratori.jpg",
                   "album": []
                 },
@@ -73,7 +74,7 @@
                "titolo":"Spezieria",
                "descrizione":"Una collezione di vasi di diverse forme e funzioni, spesso riccamente decorati, e un affresco con <i>San Bruno, fondatore dell’ordine, che intercede presso la Vergine per tutti gli infermi</i> testimoniano l’importanza che i monaci davano alle preparazioni farmaceutiche.",
                "gallery": {
-                  "main": "",
+                  "main": "certosa/hspezieria_main.jpg",
                   "copertina": "certosa/hspezieria.jpg",
                   "album": []
                 },
@@ -86,7 +87,7 @@
                "titolo":"Quarto del Priore",
                "descrizione":"L’ampio appartamento del Priore conserva alcuni ambienti con decorazioni ad affresco o pavimenti in raffinata maiolica e custodisce al suo interno opere d’arte pertinenti alla stessa certosa ma non più collocate negli ambienti originari.",
                "gallery": {
-                  "main": "",
+                  "main": "certosa/hquartopriore_main.jpg",
                   "copertina": "certosa/hquartopriore.jpg",
                   "album": []
                 },
@@ -99,7 +100,7 @@
                "titolo":"Chiesa delle donne",
                "descrizione":"Alle donne non era consentito in alcun modo varcare la soglia del monastero, pertanto la chiesa loro dedicata ha il suo ingresso autonomo nel piazzale antistante la certosa.",
                "gallery": {
-                  "main": "",
+                  "main": "certosa/hchiesadelledonne_main.jpg",
                   "copertina": "certosa/hchiesadelledonne.jpg",
                   "album": []
                 },
@@ -112,7 +113,7 @@
                "titolo":"Refettorio",
                "descrizione":"Per i pasti in comunità, consumati solo la domenica e nei giorni di festa, i monaci disponevano di un ampio refettorio. I pasti erano accompagnati dalla lettura dei testi sacri che, a turno, un monaco declamava dal pulpito.",
                "gallery": {
-                  "main": "",
+                  "main": "certosa/hrefettorio_main.jpg",
                   "copertina": "certosa/hrefettorio.jpg",
                   "album": []
                 },
@@ -125,7 +126,7 @@
                "titolo":"Terrazza panoramica e giardini",
                "descrizione":"Una terrazza panoramica, affacciata sul golfo di Napoli, dà accesso ai giardini, dove, come nelle abitudini dei monaci, è ancora possibile passeggiare e meditare lontani dai rumori della vita quotidiana.",
                "gallery": {
-                  "main": "",
+                  "main": "certosa/hterrazzagiardini_main.jpg",
                   "copertina": "certosa/hterrazzagiardini.jpg",
                   "album": []
                 },
@@ -139,6 +140,7 @@
          "id":2,
          "titolo":"Museo",
          "descrizione":"",
+         "main": "",
          "gallery": {
             "copertina": "museo/headermuseo.jpeg",
             "album": []
