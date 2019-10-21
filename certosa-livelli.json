@@ -2,6 +2,7 @@
    "titolo":"La Certosa e il museo di San Martino",
    "descrizione":"La Certosa di San Martino è in sé uno dei monumenti più rappresentativi dell’arte a Napoli. Per tale motivo, dopo essere stata dichiarata monumento nazionale nel 1866, è apparsa come la sede ideale per ospitare collezioni di varia natura che contribuissero ad ampliare il racconto della storia e della cultura napoletane.",
    "gallery": {
+      "main": "",
       "copertina": "",
       "album": []
    },
@@ -20,6 +21,7 @@
                "titolo":"Chiesa e ambienti annessi",
                "descrizione":"La chiesa è uno dei luoghi i più rappresentativi del Barocco napoletano: tecniche e stili diversi si avvicendano e,  senza soluzione di continuità, lo spazio si riempie di tarsie marmoree, stucchi, dipinti e sculture realizzati dai principali artisti attivi a Napoli, nel corso di quasi due secoli. L’articolazione di ambienti come i Cori dei Padri e dei Conversi, la Sagrestia, le Cappelle del Tesoro, la sala del Capitolo e il Parlatorio racconta della vita dei monaci certosini improntata al rispetto di una peculiare regola monastica.",
                "gallery": {
+                  "main": "",
                   "copertina": "certosa/hchiesaeambientiannessi.jpg",
                   "album": []
                 },
@@ -32,6 +34,7 @@
                "titolo":"Chiostro grande",
                "descrizione":"Il chiostro rappresenta il vero e proprio cuore della vita monastica. Lo spazio, scandito dal ritmo di archi e colonne, ospitava le celle dei Padri, ora trasformate in spazi espositivi, nonché l’ultima dimora dei monaci, il cimitero.",
                "gallery": {
+                  "main": "",
                   "copertina": "certosa/hchiostrogrande.jpg",
                   "album": []
                 },
@@ -44,6 +47,7 @@
                "titolo":"Museo dell'Opera",
                "descrizione":"Diversi ambienti un tempo adibiti a celle dei monaci, oggi ospitano dipinti, sculture e altri oggetti che raccontano alcuni momenti della vita della certosa e permettono di cogliere importanti passaggi della storia del complesso monastico.",
                "gallery": {
+                  "main": "",
                   "copertina": "certosa/hmuseoopera.jpg",
                   "album": []
                 },
@@ -56,6 +60,7 @@
                "titolo":"Chiostro dei Procuratori",
                "descrizione":"Archi su solidi pilastri in pietra vulcanica scandiscono questo spazio che ospita diversi stemmi provenienti dai palazzi che si trovavano nella cosiddetta città bassa, rimossi nell’ambito dei lavori di risanamento di fine Ottocento.",
                "gallery": {
+                  "main": "",
                   "copertina": "certosa/hchiostroprocuratori.jpg",
                   "album": []
                 },
@@ -68,6 +73,7 @@
                "titolo":"Spezieria",
                "descrizione":"Una collezione di vasi di diverse forme e funzioni, spesso riccamente decorati, e un affresco con <i>San Bruno, fondatore dell’ordine, che intercede presso la Vergine per tutti gli infermi</i> testimoniano l’importanza che i monaci davano alle preparazioni farmaceutiche.",
                "gallery": {
+                  "main": "",
                   "copertina": "certosa/hspezieria.jpg",
                   "album": []
                 },
@@ -80,6 +86,7 @@
                "titolo":"Quarto del Priore",
                "descrizione":"L’ampio appartamento del Priore conserva alcuni ambienti con decorazioni ad affresco o pavimenti in raffinata maiolica e custodisce al suo interno opere d’arte pertinenti alla stessa certosa ma non più collocate negli ambienti originari.",
                "gallery": {
+                  "main": "",
                   "copertina": "certosa/hquartopriore.jpg",
                   "album": []
                 },
@@ -92,6 +99,7 @@
                "titolo":"Chiesa delle donne",
                "descrizione":"Alle donne non era consentito in alcun modo varcare la soglia del monastero, pertanto la chiesa loro dedicata ha il suo ingresso autonomo nel piazzale antistante la certosa.",
                "gallery": {
+                  "main": "",
                   "copertina": "certosa/hchiesadelledonne.jpg",
                   "album": []
                 },
@@ -104,6 +112,7 @@
                "titolo":"Refettorio",
                "descrizione":"Per i pasti in comunità, consumati solo la domenica e nei giorni di festa, i monaci disponevano di un ampio refettorio. I pasti erano accompagnati dalla lettura dei testi sacri che, a turno, un monaco declamava dal pulpito.",
                "gallery": {
+                  "main": "",
                   "copertina": "certosa/hrefettorio.jpg",
                   "album": []
                 },
@@ -116,6 +125,7 @@
                "titolo":"Terrazza panoramica e giardini",
                "descrizione":"Una terrazza panoramica, affacciata sul golfo di Napoli, dà accesso ai giardini, dove, come nelle abitudini dei monaci, è ancora possibile passeggiare e meditare lontani dai rumori della vita quotidiana.",
                "gallery": {
+                  "main": "",
                   "copertina": "certosa/hterrazzagiardini.jpg",
                   "album": []
                 },
@@ -139,6 +149,7 @@
                "titolo":"Sezione presepiale",
                "descrizione":"La sezione custodisce la più importante raccolta pubblica dedicata al presepe napoletano, tradizione artistico-artigianale che ha toccato l’apice tra Settecento e Ottocento, come testimoniano numerose figure di elevata qualità.",
                "gallery": {
+                  "main": "",
                   "copertina": "museo/hsezionepresepiale.jpg",
                   "album": []
                 },
@@ -151,6 +162,7 @@
                "titolo":"Sezione teatrale",
                "descrizione":"La raccolta testimonia della vivacità della cultura teatrale attraverso opere di varia natura - dipinti, sculture, disegni, stampe, fotografie e cimeli - che raccontano aspetti importanti dei luoghi e dei protagonisti della scena napoletana.",
                "gallery": {
+                  "main": "",
                   "copertina": "museo/hsezioneteatrale.jpg",
                   "album": []
                 },
@@ -163,6 +175,7 @@
                "titolo":"Immagini e memorie",
                "descrizione":"Gli spazi un tempo occupati dalle celle dei monaci ospitano opere figurative e oggetti che raccontano la storia della città dal Quattrocento all’Ottocento, documentando i momenti salienti, come le eruzioni del Vesuvio o la peste, e i principali protagonisti, da Masaniello ai Borbone, nonché l’evoluzione urbanistica e altri aspetti della storia minuta.",
                "gallery": {
+                  "main": "",
                   "copertina": "museo/himmaginiememorie.jpg",
                   "album": []
                 },
@@ -175,6 +188,7 @@
                "titolo":"Sezione navale",
                "descrizione":"In un allestimento che rievoca un antico arsenale, sono esposte alcune imbarcazioni, tra cui le lance da parata Borbone e Savoia, diversi modelli di cantiere, armi e strumenti per la navigazione.",
                "gallery": {
+                  "main": "",
                   "copertina": "museo/hsezionenavale.jpg",
                   "album": []
                 },
@@ -187,6 +201,7 @@
                "titolo":"Le Arti decorative",
                "descrizione":"Grazie ad importanti donazioni, il museo si è arricchito di manufatti pregiati di materiali diversi come maiolica, porcellana, vetro, avorio e corallo.",
                "gallery": {
+                  "main": "",
                   "copertina": "museo/hartidecorative.jpg",
                   "album": []
                 },
@@ -199,6 +214,7 @@
                "titolo":"Ottocento napoletano",
                "descrizione":"La collezione comprende dipinti e sculture dei più importanti artisti attivi a Napoli, spaziando tra le vedute della Scuola di Posillipo, le opere di impronta accademica e i lavori di ricerca antiaccademici della cosiddetta Scuola di Resina.",
                "gallery": {
+                  "main": "",
                   "copertina": "museo/hottocentonapoletano.jpg",
                   "album": []
                 },
@@ -211,6 +227,7 @@
                "titolo":"Gabinetto Disegni e Stampe",
                "descrizione":"Circa sedicimila fogli provenienti da diverse collezioni documentano svariati filoni: disegni di architettura, di figura e di veduta, gouache, raccolte di ritratti e soggetti storici e stampe, soprattutto cartografie. Tra gli autori figurano architetti come L. Vanvitelli e A. Niccolini e pittori come G. Gigante. Consultabile su appuntamento.",
                "gallery": {
+                  "main": "",
                   "copertina": "museo/hgabinetto.jpg",
                   "album": []
                 },
@@ -223,6 +240,7 @@
                "titolo":"Collezione Alisio",
                "descrizione":"La collezione documenta la storia del vedutismo napoletano con dipinti ad olio, acquerelli, gouaches e disegni di artisti e viaggiatori, dalla metà del Seicento alla fine dell’Ottocento. Le opere - oltre cento - di notevole qualità artistica, hanno anche valore cartografico.",
                "gallery": {
+                  "main": "",
                   "copertina": "",
                   "album": []
                 },
@@ -235,6 +253,7 @@
                "titolo":"Androne delle Carrozze",
                "descrizione":"Nell'ambiente di passaggio verso i giardini, sono esposte le carrozze degli Eletti del Popolo e della regina Maria Cristina di Savoia, insieme a stemmi reali e vicereali di grandi dimensioni e alla cosiddetta <i>colonna infame</i>, ovvero la colonna davanti alla quale venivano pubblicamente umiliati i debitori insolventi.",
                "gallery": {
+                  "main": "",
                   "copertina": "museo/handronedellecarrozze.jpg",
                   "album": []
                 },
@@ -247,6 +266,7 @@
                "titolo":"Sotterranei gotici",
                "descrizione":"Negli ambienti delle suggestive quanto architettonicamente ardite fondamenta trecentesche della Certosa, è esposta una collezione di marmi: sculture che abbracciano un arco temporale che va dal Trecento al Settecento ed epigrafi che raccontano pagine di storia della città.",
                "gallery": {
+                  "main": "",
                   "copertina": "museo/hsotterraneigotici.jpg",
                   "album": []
                 },
