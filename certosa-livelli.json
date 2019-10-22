@@ -23,7 +23,16 @@
                "gallery": {
                   "main": "certosa/hchiesaeambientiannessi_main.jpg",
                   "copertina": "certosa/hchiesaeambientiannessi.jpg",
-                  "album": []
+                  "album": [
+                     "certosa/hchiesaeambientiannessi_main.jpg",
+                     "album/chiesa1.jpg",
+                     "album/chiesa2.jpg",
+                     "album/chiesa3.jpg",
+                     "album/chiesa4.jpg",
+                     "album/chiesa5.jpg",
+                     "album/chiesa6.jpg",
+                     "album/chiesa7.jpg"
+                  ]
                 },
                "sottolivelli":[
 
@@ -36,7 +45,8 @@
                "gallery": {
                   "main": "certosa/hchiostrogrande_main.jpg",
                   "copertina": "certosa/hchiostrogrande.jpg",
-                  "album": []
+                  "album": [
+                  ]
                 },
                "sottolivelli":[
 
@@ -50,7 +60,7 @@
                   "main": "certosa/hmuseoopera_main.jpg",
                   "copertina": "certosa/hmuseoopera.jpg",
                   "album": [
-                     "certosa/hmuseoopera_main.jpg","album/museoopera-1","album/museoopera-2","album/museoopera-3"
+                     "certosa/hmuseoopera_main.jpg","album/museoopera-1.jpg","album/museoopera-2.jpg","album/museoopera-3.jpg"
                   ]
                 },
                "sottolivelli":[
