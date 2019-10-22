@@ -50,7 +50,7 @@
                   "main": "certosa/hmuseoopera_main.jpg",
                   "copertina": "certosa/hmuseoopera.jpg",
                   "album": [
-                     "certosa/hmuseoopera_main.jpg","museoopera-1","museoopera-2","museoopera-3
+                     "certosa/hmuseoopera_main.jpg","album/museoopera-1","album/museoopera-2","album/museoopera-3
                   ]
                 },
                "sottolivelli":[
