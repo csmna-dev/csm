@@ -12,7 +12,7 @@
          "titolo":"Certosa",
          "descrizione":"Costruita a partire dal 1325, nel corso dei secoli la certosa ha visto succedersi i principali protagonisti delle arti a Napoli: pittori, scultori, architetti e artigiani hanno lasciato pregevoli testimonianze del loro lavoro nell’articola successione degli ambienti, rendendo il complesso un <i>unicum</i> per eleganza di forme e ricchezza decorativa.",
          "gallery": {
-            "copertina": "certosa/headercertosa.jpeg",
+            "copertina": "certosa/hcertosa_main.png",
             "album": []
          },
          "sottolivelli":[
@@ -47,8 +47,8 @@
                "titolo":"Museo dell'Opera",
                "descrizione":"Diversi ambienti un tempo adibiti a celle dei monaci, oggi ospitano dipinti, sculture e altri oggetti che raccontano alcuni momenti della vita della certosa e permettono di cogliere importanti passaggi della storia del complesso monastico.",
                "gallery": {
-                  "main": "certosa/hcertosa_main.png",
-                  "copertina": "certosa/hcertosa_main.png",
+                  "main": "certosa/hmuseoopera_main.jpg",
+                  "copertina": "certosa/hmuseoopera.png",
                   "album": []
                 },
                "sottolivelli":[
