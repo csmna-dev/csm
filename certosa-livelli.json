@@ -240,8 +240,8 @@
                "titolo":"Collezione Alisio",
                "descrizione":"La collezione documenta la storia del vedutismo napoletano con dipinti ad olio, acquerelli, gouaches e disegni di artisti e viaggiatori, dalla metà del Seicento alla fine dell’Ottocento. Le opere - oltre cento - di notevole qualità artistica, hanno anche valore cartografico.",
                "gallery": {
-                  "main": "",
-                  "copertina": "",
+                  "main": "museo/collezionealisio.jpg",
+                  "copertina": "museo/collezionealisio.jpg",
                   "album": []
                 },
                "sottolivelli":[
