@@ -49,7 +49,11 @@
                "gallery": {
                   "main": "certosa/hmuseoopera_main.jpg",
                   "copertina": "certosa/hmuseoopera.jpg",
-                  "album": []
+                  "album": [
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Opera/Chiostro%20Grande.jpg", 
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Opera/Bernardo%20Sedgravis.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Opera/Capitelli.jpg"
+                  ]
                 },
                "sottolivelli":[
 
@@ -151,7 +155,11 @@
                "gallery": {
                   "main": "museo/hsezionepresepiale_main.jpg",
                   "copertina": "museo/hsezionepresepiale.jpg",
-                  "album": []
+                  "album": [
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Presepiale/Pastore,%20particolare.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Presepiale/Presepe%20Cuciniello.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Presepiale/Presepe%20Ricciardi.jpg"
+                  ]
                 },
                "sottolivelli":[
 
@@ -164,7 +172,11 @@
                "gallery": {
                   "main": "museo/hsezioneteatrale_main.jpg",
                   "copertina": "museo/hsezioneteatrale.jpg",
-                  "album": []
+                  "album": [
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Teatrale/Maschera%20Pulcinella.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Teatrale/Ritratto%20di%20Eduardo%20Scarpetta.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Teatrale/Ritratto%20di%20Raffaele%20Viviani.jpg"
+                  ]
                 },
                "sottolivelli":[
 
@@ -177,7 +189,14 @@
                "gallery": {
                   "main": "museo/himmaginiememorie_main.jpg",
                   "copertina": "museo/himmaginiememorie.jpg",
-                  "album": []
+                  "album": [
+                     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tavola_Strozzi_-_Napoli.jpg/1024px-Tavola_Strozzi_-_Napoli.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ImmaginiMem/Darsena.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ImmaginiMem/Pianta%20di%20Napoli.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ImmaginiMem/Ritratto%20di%20Francesco%20II.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ImmaginiMem/Ritratto%20di%20Masaniello.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ImmaginiMem/Collare%20Due%20Sicilie.jpg"
+                  ]
                 },
                "sottolivelli":[
 
@@ -190,7 +209,14 @@
                "gallery": {
                   "main": "museo/hsezionenavale_main.jpg",
                   "copertina": "museo/hsezionenavale.jpg",
-                  "album": []
+                  "album": [
+                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hsezionenavale_main.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto12.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto15.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto3.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto5.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto7.jpg"
+                  ]
                 },
                "sottolivelli":[
 
@@ -203,7 +229,13 @@
                "gallery": {
                   "main": "museo/hartidecorative_main.jpg",
                   "copertina": "museo/hartidecorative.jpg",
-                  "album": []
+                  "album": [
+                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hartidecorative_main.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ArtiDec/Ercole.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ArtiDec/Tabacchiera.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ArtiDec/Trionfo%20di%20Bacco.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ArtiDec/Carro%20di%20Apollo.jpg"
+                  ]
                 },
                "sottolivelli":[
 
@@ -216,7 +248,12 @@
                "gallery": {
                   "main": "museo/hottocentonapoletano_main.jpg",
                   "copertina": "museo/hottocentonapoletano.jpg",
-                  "album": []
+                  "album": [
+                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hottocentonapoletano_main.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Ottocento/Pastorelli%20Abruzzo.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Ottocento/Valle%20Mulini.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Ottocento/Malatiello.jpg"
+                  ]
                 },
                "sottolivelli":[
 
@@ -229,7 +266,12 @@
                "gallery": {
                   "main": "museo/hgabinetto_main.jpg",
                   "copertina": "museo/hgabinetto.jpg",
-                  "album": []
+                  "album": [
+                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hgabinetto_main.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Gabinetto/Caserta.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Gabinetto/Monaca.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Gabinetto/Villa%20Belvedere.jpg"
+                  ]
                 },
                "sottolivelli":[
 
@@ -242,7 +284,9 @@
                "gallery": {
                   "main": "museo/collezionealisio.jpg",
                   "copertina": "museo/collezionealisio.jpg",
-                  "album": []
+                  "album": [
+                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/collezionealisio.jpg",
+                     "https://www.beniculturali.it/mibac/multimedia/MiBAC/images/large/84/c259e33088ef949261e88c018ba44b1a1a018bc.JPG"]
                 },
                "sottolivelli":[
 
@@ -255,7 +299,11 @@
                "gallery": {
                   "main": "museo/handronedellecarrozze_main.jpg",
                   "copertina": "museo/handronedellecarrozze.jpg",
-                  "album": []
+                  "album": [
+                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/handronedellecarrozze_main.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Carrozze/carrozze3.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Carrozze/carrozze4.jpg"
+                  ]
                 },
                "sottolivelli":[
 
@@ -268,7 +316,13 @@
                "gallery": {
                   "main": "museo/hsotterraneigotici_main.jpg",
                   "copertina": "museo/hsotterraneigotici.jpg",
-                  "album": []
+                  "album": [
+                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hsotterraneigotici_main.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_SottGotici/01.%20Sotterranei%20gotici.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_SottGotici/11.%20Francesco%20Cassano,%20Annunciazione.jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_SottGotici/13.%20Angelo%20Viva%20(attivo%201772-1816)%20attr.,%20Allegoria%20velata%20(La%20Modestia).jpg",
+                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_SottGotici/15.%20Ignoto%20seguace%20dei%20fratelli%20Bertini%20meta'%20sec.%20XIV,%20Santa%20Caterina%20d'Alessandria%20e%20Caterina%20di%20Bivania.jpg"
+                  ]
                 },
                "sottolivelli":[
 
