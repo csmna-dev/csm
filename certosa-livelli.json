@@ -50,9 +50,7 @@
                   "main": "certosa/hmuseoopera_main.jpg",
                   "copertina": "certosa/hmuseoopera.jpg",
                   "album": [
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Opera/Chiostro%20Grande.jpg", 
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Opera/Bernardo%20Sedgravis.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Opera/Capitelli.jpg"
+                     "certosa/hmuseoopera_main.jpg","museoopera-1","museoopera-2","museoopera-3
                   ]
                 },
                "sottolivelli":[
