@@ -19,7 +19,7 @@
 					"titolo": "Chiesa e ambienti annessi",
 					"descrizione": "La chiesa è uno dei luoghi i più rappresentativi del Barocco napoletano: tecniche e stili diversi si avvicendano e,  senza soluzione di continuità, lo spazio si riempie di tarsie marmoree, stucchi, dipinti e sculture realizzati dai principali artisti attivi a Napoli, nel corso di quasi due secoli. L’articolazione di ambienti come i Cori dei Padri e dei Conversi, la Sagrestia, le Cappelle del Tesoro, la sala del Capitolo e il Parlatorio racconta della vita dei monaci certosini improntata al rispetto di una peculiare regola monastica.",
 					"gallery": {
-						"main": "certosa/hchiesaeambientiannessi_main.jpg",
+						"main": "certosa/hchiesaeambientiannessi.jpg",
 						"copertina": "certosa/hchiesaeambientiannessi.jpg",
 						"album": [
 							"certosa/hchiesaeambientiannessi.jpg",
@@ -41,7 +41,7 @@
 					"titolo": "Chiostro grande",
 					"descrizione": "Il chiostro rappresenta il vero e proprio cuore della vita monastica. Lo spazio, scandito dal ritmo di archi e colonne, ospitava le celle dei Padri, ora trasformate in spazi espositivi, nonché l’ultima dimora dei monaci, il cimitero.",
 					"gallery": {
-						"main": "certosa/hchiostrogrande_main.jpg",
+						"main": "certosa/hchiostrogrande.jpg",
 						"copertina": "certosa/hchiostrogrande.jpg",
 						"album": []
 					},
