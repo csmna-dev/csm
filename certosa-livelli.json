@@ -1,348 +1,345 @@
 {
-   "titolo":"La Certosa e il museo di San Martino",
-   "descrizione":"La Certosa di San Martino è in sé uno dei monumenti più rappresentativi dell’arte a Napoli. Per tale motivo, dopo essere stata dichiarata monumento nazionale nel 1866, è apparsa come la sede ideale per ospitare collezioni di varia natura che contribuissero ad ampliare il racconto della storia e della cultura napoletane.",
-   "gallery": {
-      "main": "",
-      "copertina": "",
-      "album": []
-   },
-   "livelli":[
-      {
-         "id":1,
-         "titolo":"Certosa",
-         "descrizione":"Costruita a partire dal 1325, nel corso dei secoli la certosa ha visto succedersi i principali protagonisti delle arti a Napoli: pittori, scultori, architetti e artigiani hanno lasciato pregevoli testimonianze del loro lavoro nell’articola successione degli ambienti, rendendo il complesso un <i>unicum</i> per eleganza di forme e ricchezza decorativa.",
-         "gallery": {
-            "copertina": "certosa/hcertosa_main.png",
-            "album": []
-         },
-         "sottolivelli":[
-            {
-               "id":1,
-               "titolo":"Chiesa e ambienti annessi",
-               "descrizione":"La chiesa è uno dei luoghi i più rappresentativi del Barocco napoletano: tecniche e stili diversi si avvicendano e,  senza soluzione di continuità, lo spazio si riempie di tarsie marmoree, stucchi, dipinti e sculture realizzati dai principali artisti attivi a Napoli, nel corso di quasi due secoli. L’articolazione di ambienti come i Cori dei Padri e dei Conversi, la Sagrestia, le Cappelle del Tesoro, la sala del Capitolo e il Parlatorio racconta della vita dei monaci certosini improntata al rispetto di una peculiare regola monastica.",
-               "gallery": {
-                  "main": "certosa/hchiesaeambientiannessi_main.jpg",
-                  "copertina": "certosa/hchiesaeambientiannessi.jpg",
-                  "album": [
-                     "certosa/hchiesaeambientiannessi.jpg",
-                     "album/chiesa1.jpg",
-                     "album/chiesa2.jpg",
-                     "album/chiesa3.jpg",
-                     "album/chiesa4.jpg",
-                     "album/chiesa5.jpg",
-                     "album/chiesa6.jpg",
-                     "album/chiesa7.jpg"
-                  ]
-                },
-               "sottolivelli":[
+	"titolo": "La Certosa e il museo di San Martino",
+	"descrizione": "La Certosa di San Martino è in sé uno dei monumenti più rappresentativi dell’arte a Napoli. Per tale motivo, dopo essere stata dichiarata monumento nazionale nel 1866, è apparsa come la sede ideale per ospitare collezioni di varia natura che contribuissero ad ampliare il racconto della storia e della cultura napoletane.",
+	"gallery": {
+		"main": "",
+		"copertina": "",
+		"album": []
+	},
+	"livelli": [{
+			"id": 1,
+			"titolo": "Certosa",
+			"descrizione": "Costruita a partire dal 1325, nel corso dei secoli la certosa ha visto succedersi i principali protagonisti delle arti a Napoli: pittori, scultori, architetti e artigiani hanno lasciato pregevoli testimonianze del loro lavoro nell’articola successione degli ambienti, rendendo il complesso un <i>unicum</i> per eleganza di forme e ricchezza decorativa.",
+			"gallery": {
+				"copertina": "certosa/hcertosa_main.png",
+				"album": []
+			},
+			"sottolivelli": [{
+					"id": 1,
+					"titolo": "Chiesa e ambienti annessi",
+					"descrizione": "La chiesa è uno dei luoghi i più rappresentativi del Barocco napoletano: tecniche e stili diversi si avvicendano e,  senza soluzione di continuità, lo spazio si riempie di tarsie marmoree, stucchi, dipinti e sculture realizzati dai principali artisti attivi a Napoli, nel corso di quasi due secoli. L’articolazione di ambienti come i Cori dei Padri e dei Conversi, la Sagrestia, le Cappelle del Tesoro, la sala del Capitolo e il Parlatorio racconta della vita dei monaci certosini improntata al rispetto di una peculiare regola monastica.",
+					"gallery": {
+						"main": "certosa/hchiesaeambientiannessi_main.jpg",
+						"copertina": "certosa/hchiesaeambientiannessi.jpg",
+						"album": [
+							"certosa/hchiesaeambientiannessi.jpg",
+							"album/chiesa1.jpg",
+							"album/chiesa2.jpg",
+							"album/chiesa3.jpg",
+							"album/chiesa4.jpg",
+							"album/chiesa5.jpg",
+							"album/chiesa6.jpg",
+							"album/chiesa7.jpg"
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":2,
-               "titolo":"Chiostro grande",
-               "descrizione":"Il chiostro rappresenta il vero e proprio cuore della vita monastica. Lo spazio, scandito dal ritmo di archi e colonne, ospitava le celle dei Padri, ora trasformate in spazi espositivi, nonché l’ultima dimora dei monaci, il cimitero.",
-               "gallery": {
-                  "main": "certosa/hchiostrogrande_main.jpg",
-                  "copertina": "certosa/hchiostrogrande.jpg",
-                  "album": [
-                  ]
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 2,
+					"titolo": "Chiostro grande",
+					"descrizione": "Il chiostro rappresenta il vero e proprio cuore della vita monastica. Lo spazio, scandito dal ritmo di archi e colonne, ospitava le celle dei Padri, ora trasformate in spazi espositivi, nonché l’ultima dimora dei monaci, il cimitero.",
+					"gallery": {
+						"main": "certosa/hchiostrogrande_main.jpg",
+						"copertina": "certosa/hchiostrogrande.jpg",
+						"album": []
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":3,
-               "titolo":"Museo dell'Opera",
-               "descrizione":"Diversi ambienti un tempo adibiti a celle dei monaci, oggi ospitano dipinti, sculture e altri oggetti che raccontano alcuni momenti della vita della certosa e permettono di cogliere importanti passaggi della storia del complesso monastico.",
-               "gallery": {
-                  "main": "certosa/hmuseoopera_main.jpg",
-                  "copertina": "certosa/hmuseoopera.jpg",
-                  "album": [
-                     "certosa/hmuseoopera.jpg","album/museoopera1-m.jpg","album/museoopera2-m.jpg","album/museopera3-m.jpg"
-                  ]
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 3,
+					"titolo": "Museo dell'Opera",
+					"descrizione": "Diversi ambienti un tempo adibiti a celle dei monaci, oggi ospitano dipinti, sculture e altri oggetti che raccontano alcuni momenti della vita della certosa e permettono di cogliere importanti passaggi della storia del complesso monastico.",
+					"gallery": {
+						"main": "certosa/hmuseoopera_main.jpg",
+						"copertina": "certosa/hmuseoopera.jpg",
+						"album": [
+							"certosa/hmuseoopera.jpg", "album/museoopera1-m.jpg", "album/museoopera2-m.jpg", "album/museopera3-m.jpg"
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":4,
-               "titolo":"Chiostro dei Procuratori",
-               "descrizione":"Archi su solidi pilastri in pietra vulcanica scandiscono questo spazio che ospita diversi stemmi provenienti dai palazzi che si trovavano nella cosiddetta città bassa, rimossi nell’ambito dei lavori di risanamento di fine Ottocento.",
-               "gallery": {
-                  "main": "certosa/hchiostroprocuratori.jpg",
-                  "copertina": "certosa/hchiostroprocuratori.jpg",
-                  "album": [
-                     "certosa/hchiostroprocuratori.jpg",
-                     "album/chiostroprocuratori1.jpeg"
-                  ]
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 4,
+					"titolo": "Chiostro dei Procuratori",
+					"descrizione": "Archi su solidi pilastri in pietra vulcanica scandiscono questo spazio che ospita diversi stemmi provenienti dai palazzi che si trovavano nella cosiddetta città bassa, rimossi nell’ambito dei lavori di risanamento di fine Ottocento.",
+					"gallery": {
+						"main": "certosa/hchiostroprocuratori.jpg",
+						"copertina": "certosa/hchiostroprocuratori.jpg",
+						"album": [
+							"certosa/hchiostroprocuratori.jpg",
+							"album/chiostroprocuratori1.jpeg"
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":5,
-               "titolo":"Spezieria",
-               "descrizione":"Una collezione di vasi di diverse forme e funzioni, spesso riccamente decorati, e un affresco con <i>San Bruno, fondatore dell’ordine, che intercede presso la Vergine per tutti gli infermi</i> testimoniano l’importanza che i monaci davano alle preparazioni farmaceutiche.",
-               "gallery": {
-                  "main": "certosa/hspezieria_main.jpg",
-                  "copertina": "certosa/hspezieria.jpg",
-                  "album": []
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 5,
+					"titolo": "Spezieria",
+					"descrizione": "Una collezione di vasi di diverse forme e funzioni, spesso riccamente decorati, e un affresco con <i>San Bruno, fondatore dell’ordine, che intercede presso la Vergine per tutti gli infermi</i> testimoniano l’importanza che i monaci davano alle preparazioni farmaceutiche.",
+					"gallery": {
+						"main": "certosa/hspezieria_main.jpg",
+						"copertina": "certosa/hspezieria.jpg",
+						"album": []
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":6,
-               "titolo":"Quarto del Priore",
-               "descrizione":"L’ampio appartamento del Priore conserva alcuni ambienti con decorazioni ad affresco o pavimenti in raffinata maiolica e custodisce al suo interno opere d’arte pertinenti alla stessa certosa ma non più collocate negli ambienti originari.",
-               "gallery": {
-                  "main": "certosa/hquartopriore_main.jpg",
-                  "copertina": "certosa/hquartopriore.jpg",
-                  "album": []
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 6,
+					"titolo": "Quarto del Priore",
+					"descrizione": "L’ampio appartamento del Priore conserva alcuni ambienti con decorazioni ad affresco o pavimenti in raffinata maiolica e custodisce al suo interno opere d’arte pertinenti alla stessa certosa ma non più collocate negli ambienti originari.",
+					"gallery": {
+						"main": "certosa/hquartopriore_main.jpg",
+						"copertina": "certosa/hquartopriore.jpg",
+						"album": []
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":7,
-               "titolo":"Chiesa delle donne",
-               "descrizione":"Alle donne non era consentito in alcun modo varcare la soglia del monastero, pertanto la chiesa loro dedicata ha il suo ingresso autonomo nel piazzale antistante la certosa.",
-               "gallery": {
-                  "main": "certosa/hchiesadelledonne_main.jpg",
-                  "copertina": "certosa/hchiesadelledonne.jpg",
-                  "album": []
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 7,
+					"titolo": "Chiesa delle donne",
+					"descrizione": "Alle donne non era consentito in alcun modo varcare la soglia del monastero, pertanto la chiesa loro dedicata ha il suo ingresso autonomo nel piazzale antistante la certosa.",
+					"gallery": {
+						"main": "certosa/hchiesadelledonne_main.jpg",
+						"copertina": "certosa/hchiesadelledonne.jpg",
+						"album": []
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":8,
-               "titolo":"Refettorio",
-               "descrizione":"Per i pasti in comunità, consumati solo la domenica e nei giorni di festa, i monaci disponevano di un ampio refettorio. I pasti erano accompagnati dalla lettura dei testi sacri che, a turno, un monaco declamava dal pulpito.",
-               "gallery": {
-                  "main": "certosa/hrefettorio_main.jpg",
-                  "copertina": "certosa/hrefettorio.jpg",
-                  "album": []
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 8,
+					"titolo": "Refettorio",
+					"descrizione": "Per i pasti in comunità, consumati solo la domenica e nei giorni di festa, i monaci disponevano di un ampio refettorio. I pasti erano accompagnati dalla lettura dei testi sacri che, a turno, un monaco declamava dal pulpito.",
+					"gallery": {
+						"main": "certosa/hrefettorio_main.jpg",
+						"copertina": "certosa/hrefettorio.jpg",
+						"album": []
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":9,
-               "titolo":"Terrazza panoramica e giardini",
-               "descrizione":"Una terrazza panoramica, affacciata sul golfo di Napoli, dà accesso ai giardini, dove, come nelle abitudini dei monaci, è ancora possibile passeggiare e meditare lontani dai rumori della vita quotidiana.",
-               "gallery": {
-                  "main": "certosa/hterrazzagiardini_main.jpg",
-                  "copertina": "certosa/hterrazzagiardini.jpg",
-                  "album": []
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 9,
+					"titolo": "Terrazza panoramica e giardini",
+					"descrizione": "Una terrazza panoramica, affacciata sul golfo di Napoli, dà accesso ai giardini, dove, come nelle abitudini dei monaci, è ancora possibile passeggiare e meditare lontani dai rumori della vita quotidiana.",
+					"gallery": {
+						"main": "certosa/hterrazzagiardini_main.jpg",
+						"copertina": "certosa/hterrazzagiardini.jpg",
+						"album": []
+					},
+					"sottolivelli": [
 
-               ]
-            }
-         ]
-      },
-      {
-         "id":2,
-         "titolo":"Museo",
-         "descrizione":"",
-         "gallery": {
-            "copertina": "museo/headermuseo.jpeg",
-            "album": []
-          },
-         "sottolivelli":[
-            {
-               "id":1,
-               "titolo":"Sezione presepiale",
-               "descrizione":"La sezione custodisce la più importante raccolta pubblica dedicata al presepe napoletano, tradizione artistico-artigianale che ha toccato l’apice tra Settecento e Ottocento, come testimoniano numerose figure di elevata qualità.",
-               "gallery": {
-                  "main": "museo/hsezionepresepiale_main.jpg",
-                  "copertina": "museo/hsezionepresepiale.jpg",
-                  "album": [
-                     "museo/hsezionepresepiale.jpg",
-                     "album/sezionepresepiale1.jpg",
-                     "album/sezionepresepiale2.jpg",
-                     "album/sezionepresepiale3.jpg	
-                  ]
-                },
-               "sottolivelli":[
+					]
+				}
+			]
+		},
+		{
+			"id": 2,
+			"titolo": "Museo",
+			"descrizione": "",
+			"gallery": {
+				"copertina": "museo/headermuseo.jpeg",
+				"album": []
+			},
+			"sottolivelli": [{
+					"id": 1,
+					"titolo": "Sezione presepiale",
+					"descrizione": "La sezione custodisce la più importante raccolta pubblica dedicata al presepe napoletano, tradizione artistico-artigianale che ha toccato l’apice tra Settecento e Ottocento, come testimoniano numerose figure di elevata qualità.",
+					"gallery": {
+						"main": "museo/hsezionepresepiale_main.jpg",
+						"copertina": "museo/hsezionepresepiale.jpg",
+						"album": [
+							"museo/hsezionepresepiale.jpg",
+							"album/sezionepresepiale1.jpg",
+							"album/sezionepresepiale2.jpg",
+							"album/sezionepresepiale3.jpg"	
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":2,
-               "titolo":"Sezione teatrale",
-               "descrizione":"La raccolta testimonia della vivacità della cultura teatrale attraverso opere di varia natura - dipinti, sculture, disegni, stampe, fotografie e cimeli - che raccontano aspetti importanti dei luoghi e dei protagonisti della scena napoletana.",
-               "gallery": {
-                  "main": "museo/hsezioneteatrale_main.jpg",
-                  "copertina": "museo/hsezioneteatrale.jpg",
-                  "album": [
-                     "museo/hsezioneteatrale.jpg",
-                     "album/sezioneteatrale1",
-                     "album/sezioneteatrale2",
-                     "album/sezioneteatrale3"
-                  ]
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 2,
+					"titolo": "Sezione teatrale",
+					"descrizione": "La raccolta testimonia della vivacità della cultura teatrale attraverso opere di varia natura - dipinti, sculture, disegni, stampe, fotografie e cimeli - che raccontano aspetti importanti dei luoghi e dei protagonisti della scena napoletana.",
+					"gallery": {
+						"main": "museo/hsezioneteatrale_main.jpg",
+						"copertina": "museo/hsezioneteatrale.jpg",
+						"album": [
+							"museo/hsezioneteatrale.jpg",
+							"album/sezioneteatrale1",
+							"album/sezioneteatrale2",
+							"album/sezioneteatrale3"
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":3,
-               "titolo":"Immagini e memorie",
-               "descrizione":"Gli spazi un tempo occupati dalle celle dei monaci ospitano opere figurative e oggetti che raccontano la storia della città dal Quattrocento all’Ottocento, documentando i momenti salienti, come le eruzioni del Vesuvio o la peste, e i principali protagonisti, da Masaniello ai Borbone, nonché l’evoluzione urbanistica e altri aspetti della storia minuta.",
-               "gallery": {
-                  "main": "museo/himmaginiememorie_main.jpg",
-                  "copertina": "museo/himmaginiememorie.jpg",
-                  "album": [
-                     "museo/himmaginiememorie.jpg",
-                     "album/immaginiememorie1",
-                     "album/immaginiememorie2",
-                     "album/immaginiememorie3",
-                     "album/immaginiememorie4",
-                     "album/immaginiememorie5",
-                     "album/immaginiememorie6"
-                  ]
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 3,
+					"titolo": "Immagini e memorie",
+					"descrizione": "Gli spazi un tempo occupati dalle celle dei monaci ospitano opere figurative e oggetti che raccontano la storia della città dal Quattrocento all’Ottocento, documentando i momenti salienti, come le eruzioni del Vesuvio o la peste, e i principali protagonisti, da Masaniello ai Borbone, nonché l’evoluzione urbanistica e altri aspetti della storia minuta.",
+					"gallery": {
+						"main": "museo/himmaginiememorie_main.jpg",
+						"copertina": "museo/himmaginiememorie.jpg",
+						"album": [
+							"museo/himmaginiememorie.jpg",
+							"album/immaginiememorie1",
+							"album/immaginiememorie2",
+							"album/immaginiememorie3",
+							"album/immaginiememorie4",
+							"album/immaginiememorie5",
+							"album/immaginiememorie6"
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":4,
-               "titolo":"Sezione navale",
-               "descrizione":"In un allestimento che rievoca un antico arsenale, sono esposte alcune imbarcazioni, tra cui le lance da parata Borbone e Savoia, diversi modelli di cantiere, armi e strumenti per la navigazione.",
-               "gallery": {
-                  "main": "museo/hsezionenavale_main.jpg",
-                  "copertina": "museo/hsezionenavale.jpg",
-                  "album": [
-                     "museo/hsezionenavale.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto12.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto15.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto3.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto5.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto7.jpg"
-                  ]
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 4,
+					"titolo": "Sezione navale",
+					"descrizione": "In un allestimento che rievoca un antico arsenale, sono esposte alcune imbarcazioni, tra cui le lance da parata Borbone e Savoia, diversi modelli di cantiere, armi e strumenti per la navigazione.",
+					"gallery": {
+						"main": "museo/hsezionenavale_main.jpg",
+						"copertina": "museo/hsezionenavale.jpg",
+						"album": [
+							"museo/hsezionenavale.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto12.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto15.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto3.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto5.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto7.jpg"
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":5,
-               "titolo":"Le Arti decorative",
-               "descrizione":"Grazie ad importanti donazioni, il museo si è arricchito di manufatti pregiati di materiali diversi come maiolica, porcellana, vetro, avorio e corallo.",
-               "gallery": {
-                  "main": "museo/hartidecorative_main.jpg",
-                  "copertina": "museo/hartidecorative.jpg",
-                  "album": [
-                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hartidecorative_main.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ArtiDec/Ercole.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ArtiDec/Tabacchiera.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ArtiDec/Trionfo%20di%20Bacco.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ArtiDec/Carro%20di%20Apollo.jpg"
-                  ]
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 5,
+					"titolo": "Le Arti decorative",
+					"descrizione": "Grazie ad importanti donazioni, il museo si è arricchito di manufatti pregiati di materiali diversi come maiolica, porcellana, vetro, avorio e corallo.",
+					"gallery": {
+						"main": "museo/hartidecorative_main.jpg",
+						"copertina": "museo/hartidecorative.jpg",
+						"album": [
+							"https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hartidecorative_main.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ArtiDec/Ercole.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ArtiDec/Tabacchiera.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ArtiDec/Trionfo%20di%20Bacco.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ArtiDec/Carro%20di%20Apollo.jpg"
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":6,
-               "titolo":"Ottocento napoletano",
-               "descrizione":"La collezione comprende dipinti e sculture dei più importanti artisti attivi a Napoli, spaziando tra le vedute della Scuola di Posillipo, le opere di impronta accademica e i lavori di ricerca antiaccademici della cosiddetta Scuola di Resina.",
-               "gallery": {
-                  "main": "museo/hottocentonapoletano_main.jpg",
-                  "copertina": "museo/hottocentonapoletano.jpg",
-                  "album": [
-                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hottocentonapoletano_main.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Ottocento/Pastorelli%20Abruzzo.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Ottocento/Valle%20Mulini.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Ottocento/Malatiello.jpg"
-                  ]
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 6,
+					"titolo": "Ottocento napoletano",
+					"descrizione": "La collezione comprende dipinti e sculture dei più importanti artisti attivi a Napoli, spaziando tra le vedute della Scuola di Posillipo, le opere di impronta accademica e i lavori di ricerca antiaccademici della cosiddetta Scuola di Resina.",
+					"gallery": {
+						"main": "museo/hottocentonapoletano_main.jpg",
+						"copertina": "museo/hottocentonapoletano.jpg",
+						"album": [
+							"https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hottocentonapoletano_main.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Ottocento/Pastorelli%20Abruzzo.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Ottocento/Valle%20Mulini.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Ottocento/Malatiello.jpg"
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":7,
-               "titolo":"Gabinetto Disegni e Stampe",
-               "descrizione":"Circa sedicimila fogli provenienti da diverse collezioni documentano svariati filoni: disegni di architettura, di figura e di veduta, gouache, raccolte di ritratti e soggetti storici e stampe, soprattutto cartografie. Tra gli autori figurano architetti come L. Vanvitelli e A. Niccolini e pittori come G. Gigante. Consultabile su appuntamento.",
-               "gallery": {
-                  "main": "museo/hgabinetto_main.jpg",
-                  "copertina": "museo/hgabinetto.jpg",
-                  "album": [
-                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hgabinetto_main.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Gabinetto/Caserta.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Gabinetto/Monaca.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Gabinetto/Villa%20Belvedere.jpg"
-                  ]
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 7,
+					"titolo": "Gabinetto Disegni e Stampe",
+					"descrizione": "Circa sedicimila fogli provenienti da diverse collezioni documentano svariati filoni: disegni di architettura, di figura e di veduta, gouache, raccolte di ritratti e soggetti storici e stampe, soprattutto cartografie. Tra gli autori figurano architetti come L. Vanvitelli e A. Niccolini e pittori come G. Gigante. Consultabile su appuntamento.",
+					"gallery": {
+						"main": "museo/hgabinetto_main.jpg",
+						"copertina": "museo/hgabinetto.jpg",
+						"album": [
+							"https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hgabinetto_main.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Gabinetto/Caserta.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Gabinetto/Monaca.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Gabinetto/Villa%20Belvedere.jpg"
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":8,
-               "titolo":"Collezione Alisio",
-               "descrizione":"La collezione documenta la storia del vedutismo napoletano con dipinti ad olio, acquerelli, gouaches e disegni di artisti e viaggiatori, dalla metà del Seicento alla fine dell’Ottocento. Le opere - oltre cento - di notevole qualità artistica, hanno anche valore cartografico.",
-               "gallery": {
-                  "main": "museo/collezionealisio.jpg",
-                  "copertina": "museo/collezionealisio.jpg",
-                  "album": [
-                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/collezionealisio.jpg",
-                     "https://www.beniculturali.it/mibac/multimedia/MiBAC/images/large/84/c259e33088ef949261e88c018ba44b1a1a018bc.JPG"]
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 8,
+					"titolo": "Collezione Alisio",
+					"descrizione": "La collezione documenta la storia del vedutismo napoletano con dipinti ad olio, acquerelli, gouaches e disegni di artisti e viaggiatori, dalla metà del Seicento alla fine dell’Ottocento. Le opere - oltre cento - di notevole qualità artistica, hanno anche valore cartografico.",
+					"gallery": {
+						"main": "museo/collezionealisio.jpg",
+						"copertina": "museo/collezionealisio.jpg",
+						"album": [
+							"https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/collezionealisio.jpg",
+							"https://www.beniculturali.it/mibac/multimedia/MiBAC/images/large/84/c259e33088ef949261e88c018ba44b1a1a018bc.JPG"
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":9,
-               "titolo":"Androne delle Carrozze",
-               "descrizione":"Nell'ambiente di passaggio verso i giardini, sono esposte le carrozze degli Eletti del Popolo e della regina Maria Cristina di Savoia, insieme a stemmi reali e vicereali di grandi dimensioni e alla cosiddetta <i>colonna infame</i>, ovvero la colonna davanti alla quale venivano pubblicamente umiliati i debitori insolventi.",
-               "gallery": {
-                  "main": "museo/handronedellecarrozze_main.jpg",
-                  "copertina": "museo/handronedellecarrozze.jpg",
-                  "album": [
-                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/handronedellecarrozze_main.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Carrozze/carrozze3.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Carrozze/carrozze4.jpg"
-                  ]
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 9,
+					"titolo": "Androne delle Carrozze",
+					"descrizione": "Nell'ambiente di passaggio verso i giardini, sono esposte le carrozze degli Eletti del Popolo e della regina Maria Cristina di Savoia, insieme a stemmi reali e vicereali di grandi dimensioni e alla cosiddetta <i>colonna infame</i>, ovvero la colonna davanti alla quale venivano pubblicamente umiliati i debitori insolventi.",
+					"gallery": {
+						"main": "museo/handronedellecarrozze_main.jpg",
+						"copertina": "museo/handronedellecarrozze.jpg",
+						"album": [
+							"https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/handronedellecarrozze_main.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Carrozze/carrozze3.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Carrozze/carrozze4.jpg"
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            },
-            {
-               "id":10,
-               "titolo":"Sotterranei gotici",
-               "descrizione":"Negli ambienti delle suggestive quanto architettonicamente ardite fondamenta trecentesche della Certosa, è esposta una collezione di marmi: sculture che abbracciano un arco temporale che va dal Trecento al Settecento ed epigrafi che raccontano pagine di storia della città.",
-               "gallery": {
-                  "main": "museo/hsotterraneigotici_main.jpg",
-                  "copertina": "museo/hsotterraneigotici.jpg",
-                  "album": [
-                     "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hsotterraneigotici_main.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_SottGotici/01.%20Sotterranei%20gotici.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_SottGotici/11.%20Francesco%20Cassano,%20Annunciazione.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_SottGotici/13.%20Angelo%20Viva%20(attivo%201772-1816)%20attr.,%20Allegoria%20velata%20(La%20Modestia).jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_SottGotici/15.%20Ignoto%20seguace%20dei%20fratelli%20Bertini%20meta'%20sec.%20XIV,%20Santa%20Caterina%20d'Alessandria%20e%20Caterina%20di%20Bivania.jpg"
-                  ]
-                },
-               "sottolivelli":[
+					]
+				},
+				{
+					"id": 10,
+					"titolo": "Sotterranei gotici",
+					"descrizione": "Negli ambienti delle suggestive quanto architettonicamente ardite fondamenta trecentesche della Certosa, è esposta una collezione di marmi: sculture che abbracciano un arco temporale che va dal Trecento al Settecento ed epigrafi che raccontano pagine di storia della città.",
+					"gallery": {
+						"main": "museo/hsotterraneigotici_main.jpg",
+						"copertina": "museo/hsotterraneigotici.jpg",
+						"album": [
+							"https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hsotterraneigotici_main.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_SottGotici/01.%20Sotterranei%20gotici.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_SottGotici/11.%20Francesco%20Cassano,%20Annunciazione.jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_SottGotici/13.%20Angelo%20Viva%20(attivo%201772-1816)%20attr.,%20Allegoria%20velata%20(La%20Modestia).jpg",
+							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_SottGotici/15.%20Ignoto%20seguace%20dei%20fratelli%20Bertini%20meta'%20sec.%20XIV,%20Santa%20Caterina%20d'Alessandria%20e%20Caterina%20di%20Bivania.jpg"
+						]
+					},
+					"sottolivelli": [
 
-               ]
-            }
-         ]
-      }
-   ]
+					]
+				}
+			]
+		}
+	]
 }
