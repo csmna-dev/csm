@@ -24,7 +24,7 @@
                   "main": "certosa/hchiesaeambientiannessi_main.jpg",
                   "copertina": "certosa/hchiesaeambientiannessi.jpg",
                   "album": [
-                     "certosa/hchiesaeambientiannessi_main.jpg",
+                     "certosa/hchiesaeambientiannessi.jpg",
                      "album/chiesa1.jpg",
                      "album/chiesa2.jpg",
                      "album/chiesa3.jpg",
@@ -60,7 +60,7 @@
                   "main": "certosa/hmuseoopera_main.jpg",
                   "copertina": "certosa/hmuseoopera.jpg",
                   "album": [
-                     "certosa/hmuseoopera_main.jpg","album/museoopera1-m.jpg","album/museoopera2-m.jpg","album/museopera3-m.jpg"
+                     "certosa/hmuseoopera.jpg","album/museoopera1-m.jpg","album/museoopera2-m.jpg","album/museopera3-m.jpg"
                   ]
                 },
                "sottolivelli":[
@@ -167,9 +167,10 @@
                   "main": "museo/hsezionepresepiale_main.jpg",
                   "copertina": "museo/hsezionepresepiale.jpg",
                   "album": [
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Presepiale/Pastore,%20particolare.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Presepiale/Presepe%20Cuciniello.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Presepiale/Presepe%20Ricciardi.jpg"
+                     "museo/hsezionepresepiale.jpg",
+                     "album/sezionepresepiale1.jpg",
+                     "album/sezionepresepiale2.jpg",
+                     "album/sezionepresepiale3.jpg	
                   ]
                 },
                "sottolivelli":[
@@ -184,9 +185,10 @@
                   "main": "museo/hsezioneteatrale_main.jpg",
                   "copertina": "museo/hsezioneteatrale.jpg",
                   "album": [
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Teatrale/Maschera%20Pulcinella.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Teatrale/Ritratto%20di%20Eduardo%20Scarpetta.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Teatrale/Ritratto%20di%20Raffaele%20Viviani.jpg"
+                     "museo/hsezioneteatrale.jpg",
+                     "album/sezioneteatrale1",
+                     "album/sezioneteatrale2",
+                     "album/sezioneteatrale3"
                   ]
                 },
                "sottolivelli":[
@@ -201,12 +203,13 @@
                   "main": "museo/himmaginiememorie_main.jpg",
                   "copertina": "museo/himmaginiememorie.jpg",
                   "album": [
-                     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tavola_Strozzi_-_Napoli.jpg/1024px-Tavola_Strozzi_-_Napoli.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ImmaginiMem/Darsena.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ImmaginiMem/Pianta%20di%20Napoli.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ImmaginiMem/Ritratto%20di%20Francesco%20II.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ImmaginiMem/Ritratto%20di%20Masaniello.jpg",
-                     "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_ImmaginiMem/Collare%20Due%20Sicilie.jpg"
+                     "museo/himmaginiememorie.jpg",
+                     "album/immaginiememorie1",
+                     "album/immaginiememorie2",
+                     "album/immaginiememorie3",
+                     "album/immaginiememorie4",
+                     "album/immaginiememorie5",
+                     "album/immaginiememorie6"
                   ]
                 },
                "sottolivelli":[
@@ -221,6 +224,7 @@
                   "main": "museo/hsezionenavale_main.jpg",
                   "copertina": "museo/hsezionenavale.jpg",
                   "album": [
+                     "museo/hsezionenavale_main.jpg",
                      "https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/hsezionenavale_main.jpg",
                      "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto12.jpg",
                      "http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Navale/Foto15.jpg",
