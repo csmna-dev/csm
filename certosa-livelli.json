@@ -127,8 +127,10 @@
 					"descrizione": "Per i pasti in comunità, consumati solo la domenica e nei giorni di festa, i monaci disponevano di un ampio refettorio. I pasti erano accompagnati dalla lettura dei testi sacri che, a turno, un monaco declamava dal pulpito.",
 					"gallery": {
 						"main": "certosa/hrefettorio.jpg",
-						"copertina": "certosa/hrefettorio.jpg",
-						"album": []
+						"copertina": "certosa/ccrefettorio.jpg",
+						"album": [
+							"certosa/hrefettorio.jpg"
+						]
 					},
 					"sottolivelli": [
 
