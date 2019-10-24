@@ -111,9 +111,11 @@
 					"titolo": "Chiesa delle donne",
 					"descrizione": "Alle donne non era consentito in alcun modo varcare la soglia del monastero, pertanto la chiesa loro dedicata ha il suo ingresso autonomo nel piazzale antistante la certosa.",
 					"gallery": {
-						"main": "certosa/hchiesadelledonne.jpg",
-						"copertina": "certosa/hchiesadelledonne.jpg",
-						"album": []
+						"main": "certosa/hchiesadonne.jpg",
+						"copertina": "certosa/cchiesadonne.jpg",
+						"album": [
+							"certosa/hchiesadonne.jpg"
+						]
 					},
 					"sottolivelli": [
 
