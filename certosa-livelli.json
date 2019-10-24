@@ -311,7 +311,7 @@
 						"main": "museo/handronecarrozze.jpg",
 						"copertina": "museo/handronecarrozze.jpg",
 						"album": [
-							"https://raw.githubusercontent.com/csmna-dev/csm/master/gallery/museo/handronedellecarrozze_main.jpg",
+							"museo/handronecarrozze.jpg",
 							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Carrozze/carrozze3.jpg",
 							"http://www.polomusealecampania.beniculturali.it/images/SanMartino/Col_Carrozze/carrozze4.jpg"
 						]
