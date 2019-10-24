@@ -55,7 +55,7 @@
 					"descrizione": "Diversi ambienti un tempo adibiti a celle dei monaci, oggi ospitano dipinti, sculture e altri oggetti che raccontano alcuni momenti della vita della certosa e permettono di cogliere importanti passaggi della storia del complesso monastico.",
 					"gallery": {
 						"main": "album/museoopera1-m.jpg",
-						"copertina": "certosa/hmuseoopera.jpg",
+						"copertina": "album/museoopera1-m.jpg",
 						"album": [
 							"album/museoopera1-m.jpg", "certosa/hmuseoopera.jpg", "album/museoopera2-m.jpg", "album/museopera3-m.jpg"
 						]
