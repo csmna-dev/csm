@@ -141,9 +141,11 @@
 					"titolo": "Terrazza panoramica e giardini",
 					"descrizione": "Una terrazza panoramica, affacciata sul golfo di Napoli, dà accesso ai giardini, dove, come nelle abitudini dei monaci, è ancora possibile passeggiare e meditare lontani dai rumori della vita quotidiana.",
 					"gallery": {
-						"main": "certosa/hterrazzagiardini.jpg",
-						"copertina": "certosa/hterrazzagiardini.jpg",
-						"album": []
+						"main": "certosa/hterrazza.jpg",
+						"copertina": "certosa/cterrazza.jpg",
+						"album": [
+							"certosa/hterrazza.jpg"
+						]
 					},
 					"sottolivelli": [
 
