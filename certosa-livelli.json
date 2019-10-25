@@ -18,7 +18,7 @@
 			"sottolivelli": [{
 					"id": 1,
 					"titolo": "Chiesa e ambienti annessi",
-					"descrizione": "La chiesa è uno dei luoghi i più rappresentativi del Barocco napoletano: tecniche e stili diversi si avvicendano e,  senza soluzione di continuità, lo spazio si riempie di tarsie marmoree, stucchi, dipinti e sculture realizzati dai principali artisti attivi a Napoli, nel corso di quasi due secoli. L’articolazione di ambienti come i Cori dei Padri e dei Conversi, la Sagrestia, le Cappelle del Tesoro, la sala del Capitolo e il Parlatorio racconta della vita dei monaci certosini improntata al rispetto di una peculiare regola monastica.",
+					"descrizione": "Tecniche artistiche e stili diversi si avvicendano senza soluzione di continuità: dipinti, sculture, tarsie marmoree e stucchi,  realizzati dai principali artisti attivi a Napoli. L’articolazione degli ambienti - i Cori dei Padri e dei Conversi, la Sagrestia, le Cappelle del Tesoro, la sala del Capitolo e il Parlatorio - racconta della vita dei monaci certosini improntata al rispetto di una peculiare regola monastica.",
 					"gallery": {
 						"main": "certosa/hchiesaeambientiannessi.jpg",
 						"copertina": "certosa/hchiesaeambientiannessi.jpg",
@@ -40,7 +40,7 @@
 				{
 					"id": 2,
 					"titolo": "Chiostro grande",
-					"descrizione": "Il chiostro rappresenta il vero e proprio cuore della vita monastica. Lo spazio, scandito dal ritmo di archi e colonne, ospitava le celle dei Padri, ora trasformate in spazi espositivi, nonché l’ultima dimora dei monaci, il cimitero.",
+					"descrizione": "Luogo simbolo della vita monastica, scandito dal ritmo leggero di archi su colonne e impreziosito da sovrapporte angolari, il chiostro ospitava le celle, dove i Padri passavano molta parte del loro tempo nel silenzio dedicandosi alla preghiera e al lavoro, e il cimitero, loro ultima dimora. Le celle ospitano ora il Museo dell'Opera e la sezione dedicata alle Immagini e memorie della città.",
 					"gallery": {
 						"main": "certosa/hchiostrogrande.jpg",
 						"copertina": "certosa/cchiostrogrande.jpg",
@@ -57,7 +57,7 @@
 				{
 					"id": 3,
 					"titolo": "Museo dell'Opera",
-					"descrizione": "Diversi ambienti un tempo adibiti a celle dei monaci, oggi ospitano dipinti, sculture e altri oggetti che raccontano alcuni momenti della vita della certosa e permettono di cogliere importanti passaggi della storia del complesso monastico.",
+					"descrizione": "Dipinti, sculture, modelli e documenti raccontano alcuni momenti della vita della Certosa e del museo, permettendo di cogliere importanti passaggi della storia del complesso monastico, della vita secondo la regola certosina e della successiva musealizzazione.",
 					"gallery": {
 						"main": "certosa/hmuseoopera.jpg",
 						"copertina": "certosa/hmuseoopera.jpg",
@@ -74,7 +74,7 @@
 				{
 					"id": 4,
 					"titolo": "Chiostro dei Procuratori",
-					"descrizione": "Archi su solidi pilastri in pietra vulcanica scandiscono questo spazio che ospita diversi stemmi provenienti dai palazzi che si trovavano nella cosiddetta città bassa, rimossi nell’ambito dei lavori di risanamento di fine Ottocento.",
+					"descrizione": "Archi su pilastri in pietra vulcanica scandiscono armoniosamente lo spazio dove risiedeva il monaco Procuratore,  incaricato dell'amministrazione temporale. Alle pareti, stemmi nobiliari provenienti dai palazzi che si trovavano nella cosiddetta città bassa, tra il centro antico e il mare, rimossi nell’ambito dei lavori di risanamento condotti a fine Ottocento.",
 					"gallery": {
 						"main": "certosa/hchiostroprocuratori.jpg",
 						"copertina": "certosa/hchiostroprocuratori.jpg",
@@ -90,7 +90,7 @@
 				{
 					"id": 5,
 					"titolo": "Spezieria",
-					"descrizione": "Una collezione di vasi di diverse forme e funzioni, spesso riccamente decorati, e un affresco con <i>San Bruno, fondatore dell’ordine, che intercede presso la Vergine per tutti gli infermi</i> testimoniano l’importanza che i monaci davano alle preparazioni farmaceutiche.",
+					"descrizione": "Vasi di diversa forma e funzione, spesso riccamente decorati, testimoniano l’importanza che i monaci davano alle preparazioni farmaceutiche. Un luminoso affresco con <i>San Bruno, fondatore dell’ordine, che intercede presso la Vergine per tutti gli infermi</i> decora la volta.",
 					"gallery": {
 						"main": "certosa/hspezieria.jpg",
 						"copertina": "certosa/cspezieria.jpg",
@@ -107,7 +107,7 @@
 				{
 					"id": 6,
 					"titolo": "Quarto del Priore",
-					"descrizione": "L’ampio appartamento del Priore conserva alcuni ambienti con decorazioni ad affresco o pavimenti in raffinata maiolica e custodisce al suo interno opere d’arte pertinenti alla stessa certosa ma non più collocate negli ambienti originari.",
+					"descrizione": "L'ampio appartamento conserva alcune decorazioni ad affresco e pavimenti in maiolica, custodisce pregevoli opere pertinenti alla Certosa ma rimosse dalle originali collocazioni e gode di una posizione privilegiata che offre una doppia vista panoramica sul golfo.",
 					"gallery": {
 						"main": "certosa/hquartopriore.jpg",
 						"copertina": "certosa/hquartopriore.jpg",
@@ -128,7 +128,7 @@
 				{
 					"id": 7,
 					"titolo": "Chiesa delle donne",
-					"descrizione": "Alle donne non era consentito in alcun modo varcare la soglia del monastero, pertanto la chiesa loro dedicata ha il suo ingresso autonomo nel piazzale antistante la certosa.",
+					"descrizione": "Un'articolazione spaziale semplice, delineata dalla contrapposizione di bianco e grigio, tipica del Rinascimento toscano, ospita alcuni elementi decorativi di epoche diverse. La chiesa era destinata alle donne a cui non era consentito entrare negli ambienti delle Certosa, pertanto vi si accede da un ingresso autonomo sul piazzale antistante il monastero.",
 					"gallery": {
 						"main": "certosa/hchiesadonne.jpg",
 						"copertina": "certosa/cchiesadonne.jpg",
@@ -162,7 +162,7 @@
 				{
 					"id": 9,
 					"titolo": "Terrazza panoramica e giardini",
-					"descrizione": "Una terrazza panoramica, affacciata sul golfo di Napoli, dà accesso ai giardini, dove, come nelle abitudini dei monaci, è ancora possibile passeggiare e meditare lontani dai rumori della vita quotidiana.",
+					"descrizione": "Una meravigliosa vista sul golfo di Napoli caratterizza i giardini, dove, come nelle abitudini dei monaci, è ancora possibile passeggiare e meditare lontani dai rumori della vita quotidiana.",
 					"gallery": {
 						"main": "certosa/hterrazza.jpg",
 						"copertina": "certosa/cterrazza.jpg",
