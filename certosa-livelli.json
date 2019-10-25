@@ -1,7 +1,7 @@
 {
 	"titolo": "La Certosa e il museo di San Martino",
 	"descrizione": 
-	"Complesso monastico monumentale in cui arte, architettura e paesaggio si fondono con le testimonianze della storia della città. <br/> La Certosa fu costruita a partire dal 1325, delle originarie forme gotiche restano visibili alcune tracce al di sotto delle decorazioni realizzate tra la seconda metà del Cinquecento e la prima metà del Settecento, che l’hanno trasformata in uno dei più compiuti esempi del Barocco napoletano. <br/> Luogo significativo della vivacità delle arti a Napoli, nel 1866 la Certosa è stata riconosciuta come monumento nazionale e scelta come sede per ospitare raccolte di opere d’arte, manufatti e documenti legati alla storia della città.",
+	"Complesso monastico monumentale in cui arte, architettura e paesaggio si fondono con le testimonianze della storia della città.\n La Certosa fu costruita a partire dal 1325, delle originarie forme gotiche restano visibili alcune tracce al di sotto delle decorazioni realizzate tra la seconda metà del Cinquecento e la prima metà del Settecento, che l’hanno trasformata in uno dei più compiuti esempi del Barocco napoletano.\n Luogo significativo della vivacità delle arti a Napoli, nel 1866 la Certosa è stata riconosciuta come monumento nazionale e scelta come sede per ospitare raccolte di opere d’arte, manufatti e documenti legati alla storia della città.",
 	"gallery": {
 		"main": "",
 		"copertina": "",
@@ -10,7 +10,7 @@
 	"livelli": [{
 			"id": 1,
 			"titolo": "Certosa",
-			"descrizione": "Costruita a partire dal 1325, nel corso dei secoli la certosa ha visto succedersi i principali protagonisti delle arti a Napoli: pittori, scultori, architetti e artigiani hanno lasciato pregevoli testimonianze del loro lavoro nell’articola successione degli ambienti, rendendo il complesso un <i>unicum</i> per eleganza di forme e ricchezza decorativa.",
+			"descrizione": "I principali protagonisti delle arti a Napoli: pittori, scultori, architetti e artigiani hanno lasciato pregevoli testimonianze del loro lavoro nell’articolata successione degli ambienti, rendendo il complesso un <i>unicum</i> per eleganza di forme e ricchezza decorativa.\n L'architettura risponde in modo funzionale al motto, già benedettino, <i>Ora et labora</i>, prega e lavora, che regola le consuetudini di vita dei monaci certosini.",
 			"gallery": {
 				"copertina": "certosa/hcertosa_main.png",
 				"album": []
