@@ -93,7 +93,7 @@
 					"descrizione": "Una collezione di vasi di diverse forme e funzioni, spesso riccamente decorati, e un affresco con <i>San Bruno, fondatore dell’ordine, che intercede presso la Vergine per tutti gli infermi</i> testimoniano l’importanza che i monaci davano alle preparazioni farmaceutiche.",
 					"gallery": {
 						"main": "certosa/hspezieria.jpg",
-						"copertina": "certosa/hspezieria.jpg",
+						"copertina": "certosa/cspezieria.jpg",
 						"album": [
 							"certosa/hspezieria.jpg",
 							"album/spezieria1.jpg",
@@ -117,7 +117,8 @@
 							"album/priore2.jpg",
 							"album/priore3.jpg",
 							"album/priore4.jpg",
-							"album/priore5.jpg"
+							"album/priore5.jpg",
+							"album/priore6.jpg"
 						]
 					},
 					"sottolivelli": [
