@@ -180,7 +180,7 @@
 		{
 			"id": 2,
 			"titolo": "Museo",
-			"descrizione": "",
+			"descrizione": "Il racconto della storia, della produzione artistica e della cultura della città di Napoli si articola in numerose sezioni museali che espongono manufatti di diversa natura.",
 			"gallery": {
 				"copertina": "museo/headermuseo.jpeg",
 				"album": []
@@ -188,7 +188,7 @@
 			"sottolivelli": [{
 					"id": 1,
 					"titolo": "Sezione presepiale",
-					"descrizione": "La sezione custodisce la più importante raccolta pubblica dedicata al presepe napoletano, tradizione artistico-artigianale che ha toccato l’apice tra Settecento e Ottocento, come testimoniano numerose figure di elevata qualità.",
+					"descrizione": "Della tradizione artistico-artigianale del presepe napoletano, che ha toccato l’apice tra Settecento e Ottocento, restano numerose testimonianze di elevata qualità. La rappresentazione della Natività, inizialmente legata ad ambienti ecclesiastici poi divenuta laica e cortese, manifesta a Napoli una particolare attenzione alla resa naturalistica di figure e oggetti che si compongono però in maniera scenografica.",
 					"gallery": {
 						"main": "museo/hsezionepresepiale.jpg",
 						"copertina": "museo/hsezionepresepiale.jpg",
@@ -206,7 +206,7 @@
 				{
 					"id": 2,
 					"titolo": "Sezione teatrale",
-					"descrizione": "La raccolta testimonia della vivacità della cultura teatrale attraverso opere di varia natura - dipinti, sculture, disegni, stampe, fotografie e cimeli - che raccontano aspetti importanti dei luoghi e dei protagonisti della scena napoletana.",
+					"descrizione": "La vivacità della cultura teatrale napoletana è raccontata attraverso opere e oggetti di varia natura - dipinti, sculture, disegni, stampe, fotografie e cimeli. Ritratti di musicisti, attori, drammaturghi e scenografi si intrecciano con la storia delle vicende architettoniche del San Carlo, il tema della scenografia e immagini della compagnia di Antonio Petito, uno dei più famosi interpreti della maschera di Pulcinella.",
 					"gallery": {
 						"main": "museo/hsezioneteatrale.jpg",
 						"copertina": "museo/hsezioneteatrale.jpg",
@@ -224,7 +224,7 @@
 				{
 					"id": 3,
 					"titolo": "Immagini e memorie",
-					"descrizione": "Gli spazi un tempo occupati dalle celle dei monaci ospitano opere figurative e oggetti che raccontano la storia della città dal Quattrocento all’Ottocento, documentando i momenti salienti, come le eruzioni del Vesuvio o la peste, e i principali protagonisti, da Masaniello ai Borbone, nonché l’evoluzione urbanistica e altri aspetti della storia minuta.",
+					"descrizione": "Opere figurative e oggetti raccontano la storia della città dal Quattrocento all’Ottocento, documentando i momenti salienti, come le eruzioni del Vesuvio o la peste, e i principali protagonisti, da Masaniello ai Borbone, nonché l’evoluzione urbanistica e altri aspetti della storia minuta.",
 					"gallery": {
 						"main": "museo/himmaginiememorie.jpg",
 						"copertina": "museo/himmaginiememorie.jpg",
@@ -245,7 +245,7 @@
 				{
 					"id": 4,
 					"titolo": "Sezione navale",
-					"descrizione": "In un allestimento che rievoca un antico arsenale, sono esposte alcune imbarcazioni, tra cui le lance da parata Borbone e Savoia, diversi modelli di cantiere, armi e strumenti per la navigazione.",
+					"descrizione": "Come in un antico arsenale, le decoratissime lance da parata Borbone e Savoia sono esposte insieme a un caicco, modelli di cantiere, armi bianche e da fuoco e strumenti per la navigazione, manufatti un tempo appartenuti alla Regia Marina.",
 					"gallery": {
 						"main": "museo/hsezionenavale.jpg",
 						"copertina": "museo/hsezionenavale.jpg",
@@ -265,7 +265,7 @@
 				{
 					"id": 5,
 					"titolo": "Le Arti decorative",
-					"descrizione": "Grazie ad importanti donazioni, il museo si è arricchito di manufatti pregiati di materiali diversi come maiolica, porcellana, vetro, avorio e corallo.",
+					"descrizione": "Manufatti pregiati di materiali diversi - maiolica, porcellana, vetro, avorio e corallo - realizzati tra il XVI e il XIX secolo, hanno arricchito le collezioni del museo attraverso importanti donazioni.",
 					"gallery": {
 						"main": "museo/hartidecorative.jpg",
 						"copertina": "museo/hartidecorative.jpg",
@@ -284,7 +284,7 @@
 				{
 					"id": 6,
 					"titolo": "Ottocento napoletano",
-					"descrizione": "La collezione comprende dipinti e sculture dei più importanti artisti attivi a Napoli, spaziando tra le vedute della Scuola di Posillipo, le opere di impronta accademica e i lavori di ricerca antiaccademici della cosiddetta Scuola di Resina.",
+					"descrizione": "Dipinti e sculture testimoniano i diversi approcci tematici e stilistici di scuole e correnti attive a Napoli nell'Ottocento: il vedutismo della Scuola di Posillipo, la produzione degli artisti attivi nell'ambito dell'Accademia di Belle Arti ma anche la ricerca antiaccademica della Scuola di Resina.",
 					"gallery": {
 						"main": "museo/hottocentonapoletano.jpg",
 						"copertina": "museo/hottocentonapoletano.jpg",
@@ -302,7 +302,7 @@
 				{
 					"id": 7,
 					"titolo": "Gabinetto Disegni e Stampe",
-					"descrizione": "Circa sedicimila fogli provenienti da diverse collezioni documentano svariati filoni: disegni di architettura, di figura e di veduta, gouache, raccolte di ritratti e soggetti storici e stampe, soprattutto cartografie. Tra gli autori figurano architetti come L. Vanvitelli e A. Niccolini e pittori come G. Gigante. Consultabile su appuntamento.",
+					"descrizione": "Circa sedicimila fogli provenienti da diverse collezioni: disegni di architettura, di figura e di veduta, gouaches, raccolte di ritratti e soggetti storici e stampe, soprattutto cartografie. Consultabile su appuntamento.",
 					"gallery": {
 						"main": "museo/hgabinetto.jpg",
 						"copertina": "museo/hgabinetto.jpg",
@@ -320,7 +320,7 @@
 				{
 					"id": 8,
 					"titolo": "Collezione Alisio",
-					"descrizione": "La collezione documenta la storia del vedutismo napoletano con dipinti ad olio, acquerelli, gouaches e disegni di artisti e viaggiatori, dalla metà del Seicento alla fine dell’Ottocento. Le opere - oltre cento - di notevole qualità artistica, hanno anche valore cartografico.",
+					"descrizione": "La storia del vedutismo napoletano è raccontata attraverso dipinti ad olio, acquerelli, gouaches e disegni di artisti e viaggiatori, dalla metà del Seicento alla fine dell’Ottocento. Le opere - oltre cento - di notevole qualità artistica, hanno anche valore cartografico.",
 					"gallery": {
 						"main": "museo/collezionealisio.jpg",
 						"copertina": "museo/collezionealisio.jpg",
@@ -336,7 +336,7 @@
 				{
 					"id": 9,
 					"titolo": "Androne delle Carrozze",
-					"descrizione": "Nell'ambiente di passaggio verso i giardini, sono esposte le carrozze degli Eletti del Popolo e della regina Maria Cristina di Savoia, insieme a stemmi reali e vicereali di grandi dimensioni e alla cosiddetta <i>colonna infame</i>, ovvero la colonna davanti alla quale venivano pubblicamente umiliati i debitori insolventi.",
+					"descrizione": "Le carrozze degli Eletti del Popolo e della regina Maria Cristina di Savoia, stemmi reali e vicereali di grandi dimensioni, la cosiddetta <i>colonna infame</i>, ovvero la colonna davanti alla quale venivano pubblicamente umiliati i debitori insolventi, sono alcune testimonianze della storia di Napoli esposte nello spazio di passaggio verso la terrazza.",
 					"gallery": {
 						"main": "museo/handronecarrozze.jpg",
 						"copertina": "museo/handronecarrozze.jpg",
@@ -353,7 +353,7 @@
 				{
 					"id": 10,
 					"titolo": "Sotterranei gotici",
-					"descrizione": "Negli ambienti delle suggestive quanto architettonicamente ardite fondamenta trecentesche della Certosa, è esposta una collezione di marmi: sculture che abbracciano un arco temporale che va dal Trecento al Settecento ed epigrafi che raccontano pagine di storia della città.",
+					"descrizione": "Le suggestive e architettonicamente ardite fondamenta trecentesche della Certosa ospitano una collezione di marmi: sculture, che abbracciano un arco temporale che va dal Trecento al Settecento, ed epigrafi che raccontano pagine di storia della città.",
 					"gallery": {
 						"main": "museo/hsotterraneigotici.jpg",
 						"copertina": "museo/hsotterraneigotici.jpg",
