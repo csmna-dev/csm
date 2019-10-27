@@ -271,10 +271,10 @@
 						"copertina": "museo/hartidecorative.jpg",
 						"album": [
 							"museo/hartidecorative.jpg",
-							"artidecorative1.jpg",
-							"artidecorative2.jpg",
-							"artidecorative3.jpg",
-							"artidecorative4.jpg"
+							"album/artidecorative1.jpg",
+							"album/artidecorative2.jpg",
+							"album/artidecorative3.jpg",
+							"album/artidecorative4.jpg"
 						]
 					},
 					"sottolivelli": [
