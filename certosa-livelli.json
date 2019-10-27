@@ -342,8 +342,8 @@
 						"copertina": "museo/handronecarrozze.jpg",
 						"album": [
 							"museo/handronecarrozze.jpg",
-							"androne1.jpg",
-							"androne2.jpg"
+							"album/androne1.jpg",
+							"album/androne2.jpg"
 						]
 					},
 					"sottolivelli": [
