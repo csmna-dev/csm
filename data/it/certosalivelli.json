@@ -8,7 +8,7 @@
 		"album": []
 	},
 	"livelli": [{
-			"id": 1,
+			"id": 101,
 			"titolo": "Certosa",
 			"descrizione": "I principali protagonisti delle arti a Napoli: pittori, scultori, architetti e artigiani hanno lasciato pregevoli testimonianze del loro lavoro nell’articolata successione degli ambienti, rendendo il complesso un <i>unicum</i> per eleganza di forme e ricchezza decorativa.\n L'architettura risponde in modo funzionale al motto, già benedettino, <i>Ora et labora</i>, prega e lavora, che regola le consuetudini di vita dei monaci certosini.",
 			"gallery": {
@@ -178,7 +178,7 @@
 			]
 		},
 		{
-			"id": 2,
+			"id": 102,
 			"titolo": "Museo",
 			"descrizione": "Il racconto della storia, della produzione artistica e della cultura della città di Napoli si articola in numerose sezioni museali che espongono manufatti di diversa natura.",
 			"gallery": {
@@ -325,9 +325,7 @@
 						"main": "museo/collezionealisio.jpg",
 						"copertina": "museo/collezionealisio.jpg",
 						"album": [
-							"museo/collezionealisio.jpg",
-							"album/alisio1.jpg"
-						]
+							"museo/collezionealisio.jpg"						]
 					},
 					"sottolivelli": [
 
