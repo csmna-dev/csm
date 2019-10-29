@@ -212,9 +212,9 @@
 						"copertina": "museo/hsezioneteatrale.jpg",
 						"album": [
 							"museo/hsezioneteatrale.jpg",
-							"album/teatrale1",
-							"album/teatrale2",
-							"album/teatrale3"
+							"album/teatrale1.jpg",
+							"album/teatrale2.jpg",
+							"album/teatrale3.jpg"
 						]
 					},
 					"sottolivelli": [
@@ -230,12 +230,12 @@
 						"copertina": "museo/himmaginiememorie.jpg",
 						"album": [
 							"museo/himmaginiememorie.jpg",
-							"album/immaginiememorie1",
-							"album/immaginiememorie2",
-							"album/immaginiememorie3",
-							"album/immaginiememorie4",
-							"album/immaginiememorie5",
-							"album/immaginiememorie6"
+							"album/immaginiememorie1.jpg",
+							"album/immaginiememorie2.jpg",
+							"album/immaginiememorie3.jpg",
+							"album/immaginiememorie4.jpg",
+							"album/immaginiememorie5.jpg",
+							"album/immaginiememorie6.jpg"
 						]
 					},
 					"sottolivelli": [
