@@ -1,0 +1,373 @@
+{
+	"titolo": "La Cartuja y el Museo de San Martino",
+	"descrizione": 
+	"Complejo monumental monástico en el que arte, arquitectura y paisaje se funden con los testimonios de la historia de la ciudad.\n La Cartuja fue construida a partir de 1325. Todavía se pueden ver algunos vestigios de las formas góticas originales bajo las decoraciones realizadas entre la segunda mitad del siglo XVI y la primera mitad del siglo XVIII, que la han convertido en uno de los ejemplos más completos del barroco napolitano.\n Lugar significativo de la vivacidad de las artes en Nápoles, en 1866 la cartuja fue reconocida como monumento nacional y elegida como lugar para albergar colecciones de obras de arte, artefactos y documentos relacionados con la historia de la ciudad.",
+	"gallery": {
+		"main": "",
+		"copertina": "",
+		"album": []
+	},
+	"livelli": [{
+			"id": 101,
+			"titolo": "Cartuja",
+			"descrizione": "Los principales protagonistas de las artes en Nápoles: pintores, escultores, arquitectos y artesanos han dejado una valiosa evidencia de su trabajo en la compleja sucesión de ambientes, haciendo del complejo un ejemplar único para la elegancia de las formas y la riqueza decorativa.\n La arquitectura responde de manera funcional al lema, ya benedictino, <i>Ora et labora</i>, Reza y trabaja, que regula las costumbres de vida de los monjes cartujos.",
+			"gallery": {
+				"copertina": "certosa/hcertosa_main.png",
+				"album": []
+			},
+			"sottolivelli": [{
+					"id": 1,
+					"titolo": "Iglesia y dependencias",
+					"descrizione": "Diferentes técnicas y estilos artísticos se alternan a la perfección: pinturas, esculturas, incrustaciones de mármol y estucos, realizados por los principales artistas que trabajan en Nápoles. La disposición de las salas -los Coros de los Padres y de los Conversos, la Sacristía, las Capillas del Tesoro, la Sala Capitular y el Libratorio- nos habla de la vida de los monjes cartujos basada en el respeto a una peculiar regla monástica.",
+					"gallery": {
+						"main": "certosa/hchiesaeambientiannessi.jpg",
+						"copertina": "certosa/hchiesaeambientiannessi.jpg",
+						"album": [
+							"certosa/hchiesaeambientiannessi.jpg",
+							"album/chiesa1.jpg",
+							"album/chiesa2.jpg",
+							"album/chiesa3.jpg",
+							"album/chiesa4.jpg",
+							"album/chiesa5.jpg",
+							"album/chiesa6.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 2,
+					"titolo": "Claustro grande",
+					"descrizione": "Lugar símbolo de la vida monástica, marcado por el ritmo ligero de arcos sobre columnas y embellecido por sobrepuertas angulares, el claustro albergaba las celdas, donde los Padres pasaban gran parte de su tiempo en silencio dedicándose a la oración y al trabajo, y el cementerio, su último hogar. Las celdas albergan ahora el Museo dell'Opera y la sección dedicada a las imágenes y recuerdos de la ciudad.",
+					"gallery": {
+						"main": "certosa/hchiostrogrande.jpg",
+						"copertina": "certosa/cchiostrogrande.jpg",
+						"album": [
+							"certosa/hchiostrogrande.jpg",
+							"album/chiostrogrande2.jpg",
+							"album/chiostrogrande3.jpg"
+						]					
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 3,
+					"titolo": "Museo dell'Opera",
+					"descrizione": "Pinturas, esculturas, maquetas y documentos relatan algunos de los momentos de la vida de la Cartuja y del museo, lo que nos permite captar importantes pasajes de la historia del complejo monástico, de la vida según la regla cartujana y de la posterior musealización.",
+					"gallery": {
+						"main": "certosa/hmuseoopera.jpg",
+						"copertina": "certosa/hmuseoopera.jpg",
+						"album": [
+							"album/museoopera1.jpg", 
+							"album/museoopera2.jpg", 
+							"album/museoopera3.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 4,
+					"titolo": "Claustro de los procuradores",
+					"descrizione": "Arcos sobre pilares de piedra volcánica marcan armoniosamente el espacio donde vivía el monje procurador, encargado de la administración temporal. Las murallas están decoradas con blasones de los palacios situados en la llamada ciudad baja, entre el casco antiguo y el mar, que fueron retirados en el marco de las obras de renovación llevadas a cabo a finales del siglo XIX.",
+					"gallery": {
+						"main": "certosa/hchiostroprocuratori.jpg",
+						"copertina": "certosa/hchiostroprocuratori.jpg",
+						"album": [
+							"certosa/hchiostroprocuratori.jpg",
+							"album/procuratori1.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 5,
+					"titolo": "Especiería",
+					"descrizione": "Jarrones de formas y funciones diferentes, a menudo ricamente decorados, atestiguan la importancia que los monjes concedían a los preparados farmacéuticos. Un fresco luminoso de <i>San Bruno, fundador de la Orden, que intercede ante la Virgen por todos los enfermos</i>, decora la bóveda.",
+					"gallery": {
+						"main": "certosa/hspezieria.jpg",
+						"copertina": "certosa/cspezieria.jpg",
+						"album": [
+							"certosa/hspezieria.jpg",
+							"album/spezieria1.jpg",
+							"album/spezieria2.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 6,
+					"titolo": "Cuarto del Prior",
+					"descrizione": "El amplio apartamento conserva algunas decoraciones al fresco y pisos de mayólica, alberga valiosas obras pertenecientes a la Cartuja pero alejadas de las ubicaciones originales y goza de una posición privilegiada que ofrece una doble vista panorámica del Golfo.",
+					"gallery": {
+						"main": "certosa/hquartopriore.jpg",
+						"copertina": "certosa/hquartopriore.jpg",
+						"album": [
+							"certosa/hquartopriore.jpg",
+							"album/priore1.jpg",
+							"album/priore2.jpg",
+							"album/priore3.jpg",
+							"album/priore4.jpg",
+							"album/priore5.jpg",
+							"album/priore6.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 11,
+					"titolo": "Iglesia de las mujeres",
+					"descrizione": "Una articulación espacial simple, delineada por el contraste entre el blanco y el gris, típico del Renacimiento toscano, alberga algunos elementos decorativos de diferentes épocas. La iglesia estaba destinada a las mujeres a las que no se les permitía entrar en las salas de la Cartuja, por lo que se entra por una entrada independiente en la plaza que hay delante del monasterio.",
+					"gallery": {
+						"main": "certosa/hchiesadonne.jpg",
+						"copertina": "certosa/cchiesadonne.jpg",
+						"album": [
+							"certosa/hchiesadonne.jpg",
+							"album/donne1.jpg",
+							"album/donne2.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 7,
+					"titolo": "Refectorio",
+					"descrizione": "Para las comidas comunitarias, que sólo se consumían los domingos y días festivos, los monjes contaban con un gran refectorio. Las comidas iban acompañadas de la lectura de los textos sagrados que, por turnos, un monje declamaba desde el púlpito.",
+					"gallery": {
+						"main": "certosa/hrefettorio.jpg",
+						"copertina": "certosa/ccrefettorio.jpg",
+						"album": [
+							"certosa/hrefettorio.jpg",
+							"album/refettorio1.jpg",
+							"album/refettorio2.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 12,
+					"titolo": "Terraza panorámica y jardines",
+					"descrizione": "Una vista maravillosa del Golfo de Nápoles caracteriza los jardines, donde, tal y como solían hacer los monjes, todavía se puede caminar y meditar lejos de los ruidos de la vida cotidiana.",
+					"gallery": {
+						"main": "certosa/hterrazza.jpg",
+						"copertina": "certosa/cterrazza.jpg",
+						"album": [
+							"certosa/hterrazza.jpg",
+							"album/terrazza1.jpg",
+							"album/terrazza2.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				}
+			]
+		},
+		{
+			"id": 102,
+			"titolo": "Museo",
+			"descrizione": "El relato de la historia, de la producción artística y de la cultura de la ciudad de Nápoles está dividido en numerosas secciones de museos que exhiben varios tipos de artefactos.",
+			"gallery": {
+				"copertina": "museo/headermuseo.jpeg",
+				"album": []
+			},
+			"sottolivelli": [{
+					"id": 8,
+					"titolo": "Sección de los pesebres",
+					"descrizione": "La tradición artística y artesanal del belén napolitano, que alcanzó su apogeo entre los siglos XVIII y XIX, conserva numerosos testimonios de gran calidad. La representación de la Natividad, inicialmente vinculada a ambientes eclesiásticos y luego secularizada, muestra en Nápoles una atención particular a la representación naturalista de figuras y objetos que se componen, sin embargo, de manera escénica.",
+					"gallery": {
+						"main": "museo/hsezionepresepiale.jpg",
+						"copertina": "museo/hsezionepresepiale.jpg",
+						"album": [
+							"museo/hsezionepresepiale.jpg",
+							"album/presepiale1.jpg",
+							"album/presepiale2.jpg",
+							"album/presepiale3.jpg"	
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 13,
+					"titolo": "Sección teatral",
+					"descrizione": "Obras y objetos de diversa índole -pinturas, esculturas, dibujos, grabados, fotografías y reliquias- atestiguan la vitalidad de la cultura teatral napolitana. Retratos de músicos, actores, dramaturgos y escenógrafos se entrelazan con la historia de los acontecimientos arquitectónicos del San Carlo, tema de la escenografía e imágenes de la compañía de Antonio Petito, uno de los intérpretes más famosos de la máscara de Polichinela.",
+					"gallery": {
+						"main": "museo/hsezioneteatrale.jpg",
+						"copertina": "museo/hsezioneteatrale.jpg",
+						"album": [
+							"museo/hsezioneteatrale.jpg",
+							"album/teatrale1.jpg",
+							"album/teatrale2.jpg",
+							"album/teatrale3.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 14,
+					"titolo": "Imágenes y recuerdos",
+					"descrizione": "Obras figurativas y objetos cuentan la historia de la ciudad desde el siglo XV hasta el XIX, documentando los momentos más destacados, como las erupciones del Vesubio o la peste, y los principales protagonistas, desde Masaniello hasta los Borbones, así como la evolución del urbanismo y otros aspectos de la historia menuda.",
+					"gallery": {
+						"main": "museo/himmaginiememorie.jpg",
+						"copertina": "museo/himmaginiememorie.jpg",
+						"album": [
+							"museo/himmaginiememorie.jpg",
+							"album/immaginiememorie1.jpg",
+							"album/immaginiememorie2.jpg",
+							"album/immaginiememorie3.jpg",
+							"album/immaginiememorie4.jpg",
+							"album/immaginiememorie5.jpg",
+							"album/immaginiememorie6.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 9,
+					"titolo": "Sección naval",
+					"descrizione": "Como en un antiguo arsenal, se exhiben las lanzas de los desfiles de los Borbones y Saboya, muy decoradas, junto con un caique, modelos de astillero, armas blancas y de fuego e instrumentos de navegación, objetos que pertenecieron a la Regia Marina.",
+					"gallery": {
+						"main": "museo/hsezionenavale.jpg",
+						"copertina": "museo/hsezionenavale.jpg",
+						"album": [
+							"museo/hsezionenavale.jpg",
+							"album/navale1.jpg",
+							"album/navale2.jpg",
+							"album/navale3.jpg",
+							"album/navale4.jpg",
+							"album/navale5.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 15,
+					"titolo": "Artes decorativas",
+					"descrizione": "Valiosos objetos de diferentes materiales -mayólica, porcelana, vidrio, marfil y coral- realizados entre los siglos XVI y XIX, enriquecieron las colecciones del museo a través de importantes donaciones.",
+					"gallery": {
+						"main": "museo/hartidecorative.jpg",
+						"copertina": "museo/hartidecorative.jpg",
+						"album": [
+							"museo/hartidecorative.jpg",
+							"album/artidecorative1.jpg",
+							"album/artidecorative2.jpg",
+							"album/artidecorative3.jpg",
+							"album/artidecorative4.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 16,
+					"titolo": "Siglo XIX en Nápoles",
+					"descrizione": "Pinturas y esculturas atestiguan los diferentes enfoques temáticos y estilísticos de las escuelas y corrientes activas en Nápoles en el siglo XIX: el vedutismo de la Escuela de Posillipo, la producción de artistas activos en la Academia de Bellas Artes, pero también la investigación antiacadémica de la Escuela de Resina.",
+					"gallery": {
+						"main": "museo/hottocentonapoletano.jpg",
+						"copertina": "museo/hottocentonapoletano.jpg",
+						"album": [
+							"museo/hottocentonapoletano.jpg",
+							"album/ottocento1.jpg",
+							"album/ottocento2.jpg",
+							"album/ottocento3.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 17,
+					"titolo": "Gabinete de Grabados y Dibujos",
+					"descrizione": "Alrededor de dieciséis mil hojas de diferentes colecciones: dibujos de arquitectura, dibujos de figuras y vistas, aguazos, colecciones de retratos, personajes históricos y grabados, especialmente mapas. Disponible con cita previa.",
+					"gallery": {
+						"main": "museo/hgabinetto.jpg",
+						"copertina": "museo/hgabinetto.jpg",
+						"album": [
+							"museo/hgabinetto.jpg",
+							"album/gabinetto1.jpg",
+							"album/gabinetto2.jpg",
+							"album/gabinetto3.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 18,
+					"titolo": "Colección Alisio",
+					"descrizione": "La historia del vedutismo napolitano se cuenta a través de óleos, acuarelas, aguazos y dibujos de artistas y viajeros, desde mediados del siglo XVII hasta finales del siglo XIX. Las obras -más de cien- de notable calidad artística, también tienen valor cartográfico.",
+					"gallery": {
+						"main": "museo/collezionealisio.jpg",
+						"copertina": "museo/collezionealisio.jpg",
+						"album": [
+							"museo/collezionealisio.jpg"						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 10,
+					"titolo": "Atrio de las carrozas",
+					"descrizione": "Las carrozas de los Elegidos del Pueblo y de la reina María Cristina de Saboya, los grandes escudos reales y virreinales, la llamada <i>colonna infame</i>, es decir, la columna frente a la cual se humillaba públicamente a los deudores insolventes, son algunos testimonios de la historia de Nápoles expuestos en el espacio de paso a la terraza.",
+					"gallery": {
+						"main": "museo/handronecarrozze.jpg",
+						"copertina": "museo/handronecarrozze.jpg",
+						"album": [
+							"museo/handronecarrozze.jpg",
+							"album/androne1.jpg",
+							"album/androne2.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 19,
+					"titolo": "Sótanos góticos",
+					"descrizione": "Los llamativos y arquitectónicamente atrevidos cimientos del siglo XIV de la Cartuja albergan una colección de mármoles: esculturas, que abarcan un período comprendido entre los siglos XIV y XVIII, y epígrafes que cuentan páginas de la historia de la ciudad.",
+					"gallery": {
+						"main": "museo/hsotterraneigotici.jpg",
+						"copertina": "museo/hsotterraneigotici.jpg",
+						"album": [
+							"museo/hsotterraneigotici.jpg",
+							"album/sotterranei1.jpg",
+							"album/sotterranei2.jpg",
+							"album/sotterranei3.jpg",
+							"album/sotterranei4.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				}
+			]
+		}
+	]
+}
