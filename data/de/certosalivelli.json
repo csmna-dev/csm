@@ -1,0 +1,373 @@
+{
+	"titolo": "Die Kartause und das Museum von San Martino",
+	"descrizione": 
+	" Klösterlicher Denkmalkomplex, in dem sich Kunst, Architektur und Landschaft mit den Zeugnissen der Stadtgeschichte verbinden.\n Die Kartause wurde ab 1325 erbaut. Einige Spuren der ursprünglichen gotischen Formen sind unter den Verzierungen noch sichtbar, die zwischen der zweiten Hälfte des sechzehnten Jahrhunderts und der ersten Hälfte des achtzehnten Jahrhunderts angefertigt wurden und die sie zu einem der vollständigsten Beispiele des neapolitanischen Barock gemacht haben.\n Bedeutendes Zeugnis der künstlerischen Vitalität Neapels, wurde die Certosa 1866 als Nationaldenkmal anerkannt und als Standort für Sammlungen von Kunstwerken, Artefakten und Dokumenten zur Stadtgeschichte ausgewählt.",
+	"gallery": {
+		"main": "",
+		"copertina": "",
+		"album": []
+	},
+	"livelli": [{
+			"id": 101,
+			"titolo": "Kartause",
+			"descrizione": " Die Hauptakteure der Künste in Neapel - Maler, Bildhauer, Architekten und Handwerker – haben in dem räumlich gegliederten Komplex wertvolle Zeugnisse ihrer Arbeit hinterlassen. Das macht den Ort einzigartig, was die Eleganz seiner Formen und seinen dekorativen Reichtum betrifft.\n Die Architektur entspricht funktionell dem bereits benediktinischen Motto <i>Ora et labora</i>, bete und arbeite, das die Lebensbedingungen der Kartäusermönche bestimmt.",
+			"gallery": {
+				"copertina": "certosa/hcertosa_main.png",
+				"album": []
+			},
+			"sottolivelli": [{
+					"id": 1,
+					"titolo": "Kirche und Nebengebäude",
+					"descrizione": " Verschiedene künstlerische Techniken und Stile wechseln sich nahtlos ab: Gemälde, Skulpturen, Marmoreinlagen und Stuckarbeiten, die von den wichtigsten in Neapel tätigen Künstlern angefertigt wurden. Die Raumaufteilung - die Chöre der Patres und Konversen, die Sakristei, die Schatzkammer, der Kapitelsaal und das Parlatorium - erzählt vom Leben der Kartäuser-Mönche, das auf der Achtung einer bestimmten Klosterregel beruht.",
+					"gallery": {
+						"main": "certosa/hchiesaeambientiannessi.jpg",
+						"copertina": "certosa/hchiesaeambientiannessi.jpg",
+						"album": [
+							"certosa/hchiesaeambientiannessi.jpg",
+							"album/chiesa1.jpg",
+							"album/chiesa2.jpg",
+							"album/chiesa3.jpg",
+							"album/chiesa4.jpg",
+							"album/chiesa5.jpg",
+							"album/chiesa6.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 2,
+					"titolo": "Großer Kreuzgang",
+					"descrizione": " Als symbolischer Ort des Klosterlebens, der durch den leichten Rhythmus von Bögen auf Säulen und durch eckige Supraporte gekennzeichnet ist, beherbergte der Kreuzgang die Zellen, in denen die Mönche einen Großteil ihrer Zeit in Stille verbrachten und sich dem Gebet und der Arbeit widmeten, und den Friedhof, ihr letztes Zuhause. In den Zellen befinden sich heute das <i>Museo dell‘Opera</i>(Opernmuseum) und der Bereich, der den Bildern und Erinnerungen an die Stadt gewidmet ist.",
+					"gallery": {
+						"main": "certosa/hchiostrogrande.jpg",
+						"copertina": "certosa/cchiostrogrande.jpg",
+						"album": [
+							"certosa/hchiostrogrande.jpg",
+							"album/chiostrogrande2.jpg",
+							"album/chiostrogrande3.jpg"
+						]					
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 3,
+					"titolo": "<i>Museo dell‘Opera</i>",
+					"descrizione": " Gemälde, Skulpturen, Modelle und Dokumente erzählen von einigen Momenten im Leben der Kartause und des Museums, und ermöglichen es, wichtige Passagen in der Geschichte des Klosterkomplexes, des Kartäuserlebens und der anschließenden Musealisierung zu erfassen.",
+					"gallery": {
+						"main": "certosa/hmuseoopera.jpg",
+						"copertina": "certosa/hmuseoopera.jpg",
+						"album": [
+							"album/museoopera1.jpg", 
+							"album/museoopera2.jpg", 
+							"album/museoopera3.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 4,
+					"titolo": "Kreuzgang der Prokuratoren",
+					"descrizione": " Harmonische Bögen auf Säulen aus vulkanischem Gestein sind das herausragende Merkmal dieses Kreuzgangs, benannt nach dem Prokuratormönch, der für die Verwaltung der weltlichen Güter zuständig war. An den Mauern sind Adelswappen aus den Palästen in der so genannten Unterstadt, zwischen Altstadt und Meer, die im Rahmen der Sanierungsarbeiten Ende des 19. Jahrhunderts entfernt wurden.",
+					"gallery": {
+						"main": "certosa/hchiostroprocuratori.jpg",
+						"copertina": "certosa/hchiostroprocuratori.jpg",
+						"album": [
+							"certosa/hchiostroprocuratori.jpg",
+							"album/procuratori1.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 5,
+					"titolo": "Apotheke",
+					"descrizione": "Die von unterschiedlicher Form und Funktion geprägten und oft reich verzierten Gefäße zeugen von der Bedeutung, die die Mönche den pharmazeutischen Präparaten beimaßen. Ein leuchtendes Fresko von <i> dem Gründer des Ordens, St. Bruno, der bei der Jungfrau für alle Kranken betet<i>, schmückt das Gewölbe.",
+					"gallery": {
+						"main": "certosa/hspezieria.jpg",
+						"copertina": "certosa/cspezieria.jpg",
+						"album": [
+							"certosa/hspezieria.jpg",
+							"album/spezieria1.jpg",
+							"album/spezieria2.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 6,
+					"titolo": "<i>Quarto</i> des Priors",
+					"descrizione": " Die große Wohnung bewahrt einige Freskendekorationen und Majolika-Böden, beherbergt wertvolle Werke der Kartause, die jedoch von den ursprünglichen Standorten entfernt sind, und genießt eine privilegierte Position, die einen doppelten Panoramablick auf den Golf bietet.",
+					"gallery": {
+						"main": "certosa/hquartopriore.jpg",
+						"copertina": "certosa/hquartopriore.jpg",
+						"album": [
+							"certosa/hquartopriore.jpg",
+							"album/priore1.jpg",
+							"album/priore2.jpg",
+							"album/priore3.jpg",
+							"album/priore4.jpg",
+							"album/priore5.jpg",
+							"album/priore6.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 11,
+					"titolo": "Kirche der Frauen",
+					"descrizione": " Dieser Raum ist geprägt durch eine einfache räumliche Gliederung, gekennzeichnet durch den für die toskanische Renaissance typischen Kontrast von Weiß und Grau, und beherbergt einige dekorative Elemente aus verschiedenen Epochen. Die Kirche war für Frauen bestimmt, die die Räume der Kartause nicht betreten durften, sodass man durch einen unabhängigen Eingang auf dem Platz vor dem Kloster eintritt.",
+					"gallery": {
+						"main": "certosa/hchiesadonne.jpg",
+						"copertina": "certosa/cchiesadonne.jpg",
+						"album": [
+							"certosa/hchiesadonne.jpg",
+							"album/donne1.jpg",
+							"album/donne2.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 7,
+					"titolo": "Refektorium",
+					"descrizione": " Für Gemeinschaftsmahlzeiten, die nur an Sonn- und Feiertagen stattfanden, hatten die Mönche ein großes Refektorium. Die Mahlzeiten wurden von der Lektüre der heiligen Schriften begleitet, die abwechselnd ein Mönch von der Kanzel aus deklamierte.",
+					"gallery": {
+						"main": "certosa/hrefettorio.jpg",
+						"copertina": "certosa/ccrefettorio.jpg",
+						"album": [
+							"certosa/hrefettorio.jpg",
+							"album/refettorio1.jpg",
+							"album/refettorio2.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 12,
+					"titolo": "Aussichtsterrasse und Gärten",
+					"descrizione": "Ein herrlicher Blick auf den Golf von Neapel zeichnet die Gärten aus, wo man, wie es die Mönche taten, noch immer weg von den Geräuschen des Alltags wandern und meditieren kann.",
+					"gallery": {
+						"main": "certosa/hterrazza.jpg",
+						"copertina": "certosa/cterrazza.jpg",
+						"album": [
+							"certosa/hterrazza.jpg",
+							"album/terrazza1.jpg",
+							"album/terrazza2.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				}
+			]
+		},
+		{
+			"id": 102,
+			"titolo": "Museum",
+			"descrizione": " Die Erzählung der Geschichte, der künstlerischen Produktion und der Kultur der Stadt Neapel ist in zahlreiche Museumsabschnitte unterteilt, die Artefakte verschiedenster Art zeigen.",
+			"gallery": {
+				"copertina": "museo/headermuseo.jpeg",
+				"album": []
+			},
+			"sottolivelli": [{
+					"id": 8,
+					"titolo": "Krippenabteilung",
+					"descrizione": " Von der künstlerischen und handwerklichen Tradition der neapolitanischen Krippe, die zwischen dem achtzehnten und neunzehnten Jahrhundert ihren Höhepunkt erreichte, sind zahlreiche hochwertige Zeugnisse erhalten. Die Darstellung der Geburt Christi, die zunächst in einer kirchlichen und erst später in einer weltlichen und höfischen Umgebung verortet wurde, zeigt in Neapel ein besonderes Augenmerk auf die naturalistische und zugleich szenisch komponierte Darstellung von Figuren und Objekten.",
+					"gallery": {
+						"main": "museo/hsezionepresepiale.jpg",
+						"copertina": "museo/hsezionepresepiale.jpg",
+						"album": [
+							"museo/hsezionepresepiale.jpg",
+							"album/presepiale1.jpg",
+							"album/presepiale2.jpg",
+							"album/presepiale3.jpg"	
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 13,
+					"titolo": "Theaterabteilung",
+					"descrizione": " Die Lebendigkeit der neapolitanischen Theaterkultur wird durch Werke und Objekte unterschiedlicher Art - Gemälde, Skulpturen, Zeichnungen, Drucke, Fotos und Erinnerungsstücke - vermittelt. Porträts von Musikern, Schauspielern, Dichtern und Bühnenbildnern verweben sich mit der Geschichte der architektonischen Ereignisse des Teatro San Carlo, dem Thema der Szenografie und den Bildern der Gesellschaft von Antonio Petito, einem der berühmtesten Interpreten der Maske der Pulcinella.",
+					"gallery": {
+						"main": "museo/hsezioneteatrale.jpg",
+						"copertina": "museo/hsezioneteatrale.jpg",
+						"album": [
+							"museo/hsezioneteatrale.jpg",
+							"album/teatrale1.jpg",
+							"album/teatrale2.jpg",
+							"album/teatrale3.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 14,
+					"titolo": "Bilder und Erinnerungen",
+					"descrizione": " Künstlerische Darstellungen und Objekte erzählen die Geschichte der Stadt vom fünfzehnten bis zum neunzehnten Jahrhundert und dokumentieren entscheidende Ereignissewie die Ausbrüche des Vesuv oder der Pest und die Hauptakteure, von Masaniello bis zu den Bourbonen, sowie die städtebauliche Entwicklung und andere Aspekte der Geschichte.",
+					"gallery": {
+						"main": "museo/himmaginiememorie.jpg",
+						"copertina": "museo/himmaginiememorie.jpg",
+						"album": [
+							"museo/himmaginiememorie.jpg",
+							"album/immaginiememorie1.jpg",
+							"album/immaginiememorie2.jpg",
+							"album/immaginiememorie3.jpg",
+							"album/immaginiememorie4.jpg",
+							"album/immaginiememorie5.jpg",
+							"album/immaginiememorie6.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 9,
+					"titolo": "Schiffabteilung",
+					"descrizione": "Wie in einem alten Arsenal werden die reich verzierten Paradeschiffe der Bourbonen und Savoyer zusammen mit einer Gulet, Werftmodellen, Blank- und Schusswaffen und Navigationsinstrumenten ausgestellt - Artefakte, die einst der Regia Marina gehörten.",
+					"gallery": {
+						"main": "museo/hsezionenavale.jpg",
+						"copertina": "museo/hsezionenavale.jpg",
+						"album": [
+							"museo/hsezionenavale.jpg",
+							"album/navale1.jpg",
+							"album/navale2.jpg",
+							"album/navale3.jpg",
+							"album/navale4.jpg",
+							"album/navale5.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 15,
+					"titolo": "Dekorative Kunst",
+					"descrizione": " Wertvolle Artefakte aus verschiedenen Materialien - Majolika, Porzellan, Glas, Elfenbein und Koralle - aus dem 17. bis 19. Jahrhundert haben die Sammlungen des Museums durch bedeutende Schenkungen bereichert.",
+					"gallery": {
+						"main": "museo/hartidecorative.jpg",
+						"copertina": "museo/hartidecorative.jpg",
+						"album": [
+							"museo/hartidecorative.jpg",
+							"album/artidecorative1.jpg",
+							"album/artidecorative2.jpg",
+							"album/artidecorative3.jpg",
+							"album/artidecorative4.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 16,
+					"titolo": " <i>Ottocento napoletano</i>",
+					"descrizione": " Gemälde und Skulpturen zeugen von den unterschiedlichen thematischen und stilistischen Ansätzen der in Neapel im 19. Jahrhundert tätigen Schulen und Strömungen: der Vedutismus der Schule von Posillipo, die Produktion von Künstlern, die an der Akademie der Bildenden Künste tätig sind, aber auch die antiakademische Malerei der Schule von Resina.",
+					"gallery": {
+						"main": "museo/hottocentonapoletano.jpg",
+						"copertina": "museo/hottocentonapoletano.jpg",
+						"album": [
+							"museo/hottocentonapoletano.jpg",
+							"album/ottocento1.jpg",
+							"album/ottocento2.jpg",
+							"album/ottocento3.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 17,
+					"titolo": "Kabinett, Zeichnungen und Druckwerke",
+					"descrizione": " Etwa sechzehntausend Blätter aus verschiedenen Sammlungen: Architekturzeichnungen, Zeichnungen von Figuren und Ansichten, Gouachen, Sammlungen von Porträts und historischen Motiven und Drucken, insbesondere kartographischer Art. Einsehbar nach Vereinbarung.",
+					"gallery": {
+						"main": "museo/hgabinetto.jpg",
+						"copertina": "museo/hgabinetto.jpg",
+						"album": [
+							"museo/hgabinetto.jpg",
+							"album/gabinetto1.jpg",
+							"album/gabinetto2.jpg",
+							"album/gabinetto3.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 18,
+					"titolo": "Die Sammlung Alisio",
+					"descrizione": " Die Geschichte des neapolitanischen Vedutismus wird durch Ölbilder, Aquarelle, Gouachen und Zeichnungen von Künstlern und Reisenden von der Mitte des siebzehnten Jahrhunderts bis zum Ende des neunzehnten Jahrhunderts erzählt. Die Werke - über hundert - sind von bemerkenswerter künstlerischer Qualität und haben auch kartographischen Wert.",
+					"gallery": {
+						"main": "museo/collezionealisio.jpg",
+						"copertina": "museo/collezionealisio.jpg",
+						"album": [
+							"museo/collezionealisio.jpg"						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 10,
+					"titolo": "Die Halle der Kutschen",
+					"descrizione": " Die Kutschen der Ratsherren und der Königin Maria Cristina von Savoyen, große königliche und vizekönigliche Wappen, die so genannte <i>berüchtigte Säule</i> - vor der die zahlungsunfähigen Schuldner öffentlich gedemütigt wurden - sind einige Zeugnisse der Geschichte Neapels, die beim Durchgang zur Terrasse ausgestellt wurden.",
+					"gallery": {
+						"main": "museo/handronecarrozze.jpg",
+						"copertina": "museo/handronecarrozze.jpg",
+						"album": [
+							"museo/handronecarrozze.jpg",
+							"album/androne1.jpg",
+							"album/androne2.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				},
+				{
+					"id": 19,
+					"titolo": "Gotische Untergeschosse",
+					"descrizione": " Die eindrucksvollen und architektonisch gewagten Fundamente der Kartause aus dem vierzehnten Jahrhundert beherbergen eine Sammlung von Marmor: Skulpturen, die eine Zeitspanne vom vierzehnten bis zum achtzehnten Jahrhundert abdecken, und Inschriften, die über die Geschichte der Stadt erzählen.",
+					"gallery": {
+						"main": "museo/hsotterraneigotici.jpg",
+						"copertina": "museo/hsotterraneigotici.jpg",
+						"album": [
+							"museo/hsotterraneigotici.jpg",
+							"album/sotterranei1.jpg",
+							"album/sotterranei2.jpg",
+							"album/sotterranei3.jpg",
+							"album/sotterranei4.jpg"
+						]
+					},
+					"sottolivelli": [
+
+					]
+				}
+			]
+		}
+	]
+}
