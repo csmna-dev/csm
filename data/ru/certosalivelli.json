@@ -1,9 +1,7 @@
 {
 	"titolo": "Чертоза и музей Сан-Мартино",
 	"descrizione": 
-	"Монументальный монастырский комплекс, в котором искусство, архитектура и пейзаж соединяются в единое целое со свидетельствами истории города.
-Чертоза строилась начиная с 1325-го года и некоторые следы первоначальных готических форм еще видны из-под декора реализованного между второй половиной XVI и началом XVII века, который превратил её в один из самых совершенных примеров неаполитанского Барокко.
-Место яркого проявления неаполитанского искусства, в 1866-м году Чертоза была признана национальным памятником и использовалась в качестве центра собрания коллекций произведений искусства, артефактов и документов, связанных с историей города.",
+	"Монументальный монастырский комплекс, в котором искусство, архитектура и пейзаж соединяются в единое целое со свидетельствами истории города. Чертоза строилась начиная с 1325-го года и некоторые следы первоначальных готических форм еще видны из-под декора реализованного между второй половиной XVI и началом XVII века, который превратил её в один из самых совершенных примеров неаполитанского Барокко. Место яркого проявления неаполитанского искусства, в 1866-м году Чертоза была признана национальным памятником и использовалась в качестве центра собрания коллекций произведений искусства, артефактов и документов, связанных с историей города.",
 	"gallery": {
 		"main": "",
 		"copertina": "",
@@ -11,16 +9,16 @@
 	},
 	"livelli": [{
 			"id": 101,
-			"titolo": "Certosa",
-			"descrizione": "I principali protagonisti delle arti a Napoli: pittori, scultori, architetti e artigiani hanno lasciato pregevoli testimonianze del loro lavoro nell’articolata successione degli ambienti, rendendo il complesso un <i>unicum</i> per eleganza di forme e ricchezza decorativa.\n L'architettura risponde in modo funzionale al motto, già benedettino, <i>Ora et labora</i>, prega e lavora, che regola le consuetudini di vita dei monaci certosini.",
+			"titolo": "Чертоза",
+			"descrizione": "Видные представители неаполитанского искусства - художники, скульпторы, архитекторы и ремесленники, оставили ценные свидетельства своего мастерства в витиеватой последовательности помещений, сделав Чертозу уникальной по изящности форм и декоративному богатству. Архитектура функционально отвечает еще бенедектинскому девизу <i>Ora et labora</i> («молись и работай»), который определял нормы жизни монахов-чертозинцев.",
 			"gallery": {
 				"copertina": "certosa/hcertosa_main.png",
 				"album": []
 			},
 			"sottolivelli": [{
 					"id": 1,
-					"titolo": "Chiesa e ambienti annessi",
-					"descrizione": "Tecniche artistiche e stili diversi si avvicendano senza soluzione di continuità: dipinti, sculture, tarsie marmoree e stucchi,  realizzati dai principali artisti attivi a Napoli. L’articolazione degli ambienti - i Cori dei Padri e dei Conversi, la Sagrestia, le Cappelle del Tesoro, la sala del Capitolo e il Parlatorio - racconta della vita dei monaci certosini improntata al rispetto di una peculiare regola monastica.",
+					"titolo": "Церковь и пристройки",
+					"descrizione": "Разнообразные художественные техники и стили непрерывно сменяют друг друга - картины, скульптуры, мраморная мозаика и лепнина, созданные видными художниками, работавшими в Неаполе. Череда помещений — Хоры Отцов и Братьев, Ризница, Капеллы сокровищ, Зал Капитула и Приёмная – знакомит с жизнью монахов-чертозинцев, основывавшейся на соблюдении их особенных монашеских правил.",
 					"gallery": {
 						"main": "certosa/hchiesaeambientiannessi.jpg",
 						"copertina": "certosa/hchiesaeambientiannessi.jpg",
@@ -40,8 +38,8 @@
 				},
 				{
 					"id": 2,
-					"titolo": "Chiostro grande",
-					"descrizione": "Luogo simbolo della vita monastica, scandito dal ritmo leggero di archi su colonne e impreziosito da sovrapporte angolari, il chiostro ospitava le celle, dove i Padri passavano molta parte del loro tempo nel silenzio dedicandosi alla preghiera e al lavoro, e il cimitero, loro ultima dimora. Le celle ospitano ora il Museo dell'Opera e la sezione dedicata alle Immagini e memorie della città.",
+					"titolo": "Большой Монастырский Двор",
+					"descrizione": "Место-символ монашеской жизни, размеренный легким ритмом арок идущих от колонны к колонне и украшенных надугловыми триглифами, двор включал в себя кельи, в которых Отцы проводили большую часть своего времени в молчании, посвящая себя молитве и работе, а так же кладбище, их последнюю обитель. Сегодня, в кельях располагается Монастырский Музей и раздел, посвященный изображениям и свидетельствам истории города.",
 					"gallery": {
 						"main": "certosa/hchiostrogrande.jpg",
 						"copertina": "certosa/cchiostrogrande.jpg",
@@ -57,8 +55,8 @@
 				},
 				{
 					"id": 3,
-					"titolo": "Museo dell'Opera",
-					"descrizione": "Dipinti, sculture, modelli e documenti raccontano alcuni momenti della vita della Certosa e del museo, permettendo di cogliere importanti passaggi della storia del complesso monastico, della vita secondo la regola certosina e della successiva musealizzazione.",
+					"titolo": "Музей Монастыря",
+					"descrizione": "Картины, скульптуры, модели и документы рассказывают о жизни Чертозы и музея, открывают главные моменты истории монастырского комплекса, чертозинского образа жизни и создания музея.",
 					"gallery": {
 						"main": "certosa/hmuseoopera.jpg",
 						"copertina": "certosa/hmuseoopera.jpg",
@@ -74,8 +72,8 @@
 				},
 				{
 					"id": 4,
-					"titolo": "Chiostro dei Procuratori",
-					"descrizione": "Archi su pilastri in pietra vulcanica scandiscono armoniosamente lo spazio dove risiedeva il monaco Procuratore,  incaricato dell'amministrazione temporale. Alle pareti, stemmi nobiliari provenienti dai palazzi che si trovavano nella cosiddetta città bassa, tra il centro antico e il mare, rimossi nell’ambito dei lavori di risanamento condotti a fine Ottocento.",
+					"titolo": "Приорский двор",
+					"descrizione": "Арки, расположенные на колоннах из вулканического камня, гармонично оформляют пространство, где проживал монах Прокуратор, временно заведующий Монастырём. На стенах - дворянские гербы из замков, которые находились в так называемом «нижнем городе», между древним центром и морем. Эти гербы были снесены в конце XIX века при ремонтных работах.",
 					"gallery": {
 						"main": "certosa/hchiostroprocuratori.jpg",
 						"copertina": "certosa/hchiostroprocuratori.jpg",
@@ -90,8 +88,8 @@
 				},
 				{
 					"id": 5,
-					"titolo": "Spezieria",
-					"descrizione": "Vasi di diversa forma e funzione, spesso riccamente decorati, testimoniano l’importanza che i monaci davano alle preparazioni farmaceutiche. Un luminoso affresco con <i>San Bruno, fondatore dell’ordine, che intercede presso la Vergine per tutti gli infermi</i> decora la volta.",
+					"titolo": "«Специерия», аптека специй",
+					"descrizione": "Горшки разных форм, часто изысканно отделанные, свидетельствуют о значении, которое для монахов имели лекарственные приготовления. Яркая фреска, изображающая основателя ордена Св. Бруно, просящего Мадонну о помощи больным, украшает свод помещения.",
 					"gallery": {
 						"main": "certosa/hspezieria.jpg",
 						"copertina": "certosa/cspezieria.jpg",
@@ -107,8 +105,8 @@
 				},
 				{
 					"id": 6,
-					"titolo": "Quarto del Priore",
-					"descrizione": "L'ampio appartamento conserva alcune decorazioni ad affresco e pavimenti in maiolica, custodisce pregevoli opere pertinenti alla Certosa ma rimosse dalle originali collocazioni e gode di una posizione privilegiata che offre una doppia vista panoramica sul golfo.",
+					"titolo": "Резиденция настоятеля монастыря  (Приоре)",
+					"descrizione": "Просторное жильё Приоре с фресками и полом из майолики. Там же находятся произведения относящиеся к Чертозе, но перенесённые с их начального места. Особое расположение помещения открывает двойной живописный вид на залив.",
 					"gallery": {
 						"main": "certosa/hquartopriore.jpg",
 						"copertina": "certosa/hquartopriore.jpg",
@@ -128,8 +126,8 @@
 				},
 				{
 					"id": 11,
-					"titolo": "Chiesa delle donne",
-					"descrizione": "Un'articolazione spaziale semplice, delineata dalla contrapposizione di bianco e grigio, tipica del Rinascimento toscano, ospita alcuni elementi decorativi di epoche diverse. La chiesa era destinata alle donne a cui non era consentito entrare negli ambienti delle Certosa, pertanto vi si accede da un ingresso autonomo sul piazzale antistante il monastero.",
+					"titolo": "Женская Церковь",
+					"descrizione": "Пространство характеризованное простотой и контрастом белого и чёрного цвета, типичным Тосканского Возрождения, включает декоративные элементы разных эпох. Церковь была предназначена для женщин, которым не был позволен вход в помещения Чертозы. По этому поводу независимый вход расположен на площадке напротив монастыря.",
 					"gallery": {
 						"main": "certosa/hchiesadonne.jpg",
 						"copertina": "certosa/cchiesadonne.jpg",
@@ -145,8 +143,8 @@
 				},
 				{
 					"id": 7,
-					"titolo": "Refettorio",
-					"descrizione": "Per i pasti in comunità, consumati solo la domenica e nei giorni di festa, i monaci disponevano di un ampio refettorio. I pasti erano accompagnati dalla lettura dei testi sacri che, a turno, un monaco declamava dal pulpito.",
+					"titolo": "Столовая",
+					"descrizione": "Трапезы с местным населением проводились в этой просторной столовой по воскресеньям и в праздничные дни, в сопровождении чтений священных текстов, которые монахи читали по очереди с кафедры.",
 					"gallery": {
 						"main": "certosa/hrefettorio.jpg",
 						"copertina": "certosa/ccrefettorio.jpg",
@@ -162,8 +160,8 @@
 				},
 				{
 					"id": 12,
-					"titolo": "Terrazza panoramica e giardini",
-					"descrizione": "Una meravigliosa vista sul golfo di Napoli caratterizza i giardini, dove, come nelle abitudini dei monaci, è ancora possibile passeggiare e meditare lontani dai rumori della vita quotidiana.",
+					"titolo": "Терраса и сады",
+					"descrizione": "Потрясающий вид на Неаполитанский залив характеризует сады, в которых, по следам монахов, можно гулять и медитировать, вдали от шума повседневной жизни.",
 					"gallery": {
 						"main": "certosa/hterrazza.jpg",
 						"copertina": "certosa/cterrazza.jpg",
@@ -181,16 +179,16 @@
 		},
 		{
 			"id": 102,
-			"titolo": "Museo",
-			"descrizione": "Il racconto della storia, della produzione artistica e della cultura della città di Napoli si articola in numerose sezioni museali che espongono manufatti di diversa natura.",
+			"titolo": "Музей",
+			"descrizione": "Рассказ об истории, о художественной работе и культуре города Неаполя располагается в различных музейных отделах, которые размещают разнообразные экспонаты.",
 			"gallery": {
 				"copertina": "museo/headermuseo.jpeg",
 				"album": []
 			},
 			"sottolivelli": [{
 					"id": 8,
-					"titolo": "Sezione presepiale",
-					"descrizione": "Della tradizione artistico-artigianale del presepe napoletano, che ha toccato l’apice tra Settecento e Ottocento, restano numerose testimonianze di elevata qualità. La rappresentazione della Natività, inizialmente legata ad ambienti ecclesiastici poi divenuta laica e cortese, manifesta a Napoli una particolare attenzione alla resa naturalistica di figure e oggetti che si compongono però in maniera scenografica.",
+					"titolo": "Секция «презепе»",
+					"descrizione": "Многочислены образцы высокого качества художественно-прикладной традиции неаполитанского «презепе» (рождественские сценки), достигшей самой высокой точки между XVII и XVIII веком. Представление Рождества, изначально расположенное в церковных помещениях, а затем выставленное в частных домах, следует в Неаполе традиции особенного реализма человеческих фигур и предметов, театрально расположенных.",
 					"gallery": {
 						"main": "museo/hsezionepresepiale.jpg",
 						"copertina": "museo/hsezionepresepiale.jpg",
@@ -207,8 +205,8 @@
 				},
 				{
 					"id": 13,
-					"titolo": "Sezione teatrale",
-					"descrizione": "La vivacità della cultura teatrale napoletana è raccontata attraverso opere e oggetti di varia natura - dipinti, sculture, disegni, stampe, fotografie e cimeli. Ritratti di musicisti, attori, drammaturghi e scenografi si intrecciano con la storia delle vicende architettoniche del San Carlo, il tema della scenografia e immagini della compagnia di Antonio Petito, uno dei più famosi interpreti della maschera di Pulcinella.",
+					"titolo": "Театральная секция",
+					"descrizione": "Живость неаполитанской театральной культуры показана через разнообразные предметы: картины, скульптуры, гравюр, фотографии и реликвии. Портреты музыкантов, актёров, драматургов и сценографов перемежаются с историей строения оперного театра Сан Карло, стенографиями постановок труппы Антонио Петито, одного из самых знаменитых исполнителей маски Пульчинелла.",
 					"gallery": {
 						"main": "museo/hsezioneteatrale.jpg",
 						"copertina": "museo/hsezioneteatrale.jpg",
@@ -225,8 +223,8 @@
 				},
 				{
 					"id": 14,
-					"titolo": "Immagini e memorie",
-					"descrizione": "Opere figurative e oggetti raccontano la storia della città dal Quattrocento all’Ottocento, documentando i momenti salienti, come le eruzioni del Vesuvio o la peste, e i principali protagonisti, da Masaniello ai Borbone, nonché l’evoluzione urbanistica e altri aspetti della storia minuta.",
+					"titolo": "Образы и память",
+					"descrizione": "Изображения и предметы рассказывают об истории города начиная с XV и до XVIII века через её главные этапы, как например извержения Везувия и эпидемия чумы. Там можно узнать о главных действующих лицах, от Мазаниелло, предводителq народного восстания в Неаполе в 1647, до Бурбонов, а также о развитии градостроительства и других темах местной истории.",
 					"gallery": {
 						"main": "museo/himmaginiememorie.jpg",
 						"copertina": "museo/himmaginiememorie.jpg",
@@ -246,8 +244,8 @@
 				},
 				{
 					"id": 9,
-					"titolo": "Sezione navale",
-					"descrizione": "Come in un antico arsenale, le decoratissime lance da parata Borbone e Savoia sono esposte insieme a un caicco, modelli di cantiere, armi bianche e da fuoco e strumenti per la navigazione, manufatti un tempo appartenuti alla Regia Marina.",
+					"titolo": "Секция мореплавания",
+					"descrizione": "Как в старинном арсенале, изысканно обработанные парадные пики Бурбонских и Савойских династий, выставлены вместе со шлюпками, моделями верфей, холодным и огнестрельным оружием и предметами мореплавания, которые когда-то принадлежали к Корелевскому итальянскому морскому флоту.",
 					"gallery": {
 						"main": "museo/hsezionenavale.jpg",
 						"copertina": "museo/hsezionenavale.jpg",
@@ -266,8 +264,8 @@
 				},
 				{
 					"id": 15,
-					"titolo": "Le Arti decorative",
-					"descrizione": "Manufatti pregiati di materiali diversi - maiolica, porcellana, vetro, avorio e corallo - realizzati tra il XVI e il XIX secolo, hanno arricchito le collezioni del museo attraverso importanti donazioni.",
+					"titolo": "Декоративное искусство",
+					"descrizione": "Драгоценные изделия ручной работы из разных материалов – майолики, фарфора, стекла, слоновой кости и коралла – созданные между XVI и XIX веком, обогатили коллекцию музея благодаря частным дарителям.",
 					"gallery": {
 						"main": "museo/hartidecorative.jpg",
 						"copertina": "museo/hartidecorative.jpg",
@@ -285,8 +283,8 @@
 				},
 				{
 					"id": 16,
-					"titolo": "Ottocento napoletano",
-					"descrizione": "Dipinti e sculture testimoniano i diversi approcci tematici e stilistici di scuole e correnti attive a Napoli nell'Ottocento: il vedutismo della Scuola di Posillipo, la produzione degli artisti attivi nell'ambito dell'Accademia di Belle Arti ma anche la ricerca antiaccademica della Scuola di Resina.",
+					"titolo": "Неаполитанский XIX век",
+					"descrizione": "Живопись и скульптура свидетельствуют о разных тематических и стилистических подходах школ и течений, действующих в Неаполе в XIX веке: от школы ведутистов из Позиллипо, до произведений художников Академии Искусств и до анти-академических исследований школы «Резина».",
 					"gallery": {
 						"main": "museo/hottocentonapoletano.jpg",
 						"copertina": "museo/hottocentonapoletano.jpg",
@@ -303,8 +301,8 @@
 				},
 				{
 					"id": 17,
-					"titolo": "Gabinetto Disegni e Stampe",
-					"descrizione": "Circa sedicimila fogli provenienti da diverse collezioni: disegni di architettura, di figura e di veduta, gouaches, raccolte di ritratti e soggetti storici e stampe, soprattutto cartografie. Consultabile su appuntamento.",
+					"titolo": "Кабинет рисунков и гравюр",
+					"descrizione": "Примерно шестнадцать тысяч листов из многочисленных коллекций: архитектурные эскизы, рисунки изображающие пейзажи и людей, гуаши, собрания портретов и исторических сюжетов, и в особенности картографии. Доступен по предварительной записи.",
 					"gallery": {
 						"main": "museo/hgabinetto.jpg",
 						"copertina": "museo/hgabinetto.jpg",
@@ -321,8 +319,8 @@
 				},
 				{
 					"id": 18,
-					"titolo": "Collezione Alisio",
-					"descrizione": "La storia del vedutismo napoletano è raccontata attraverso dipinti ad olio, acquerelli, gouaches e disegni di artisti e viaggiatori, dalla metà del Seicento alla fine dell’Ottocento. Le opere - oltre cento - di notevole qualità artistica, hanno anche valore cartografico.",
+					"titolo": "Коллекция Ализио",
+					"descrizione": "История неаполитанского ведутизма представлена картинами маслом, акварелью, гуашью и рисунками художников и путешественников, от XVII до XIX века. Более ста произведений искусства, обладающие значительной ценностью, имеют также картографический интерес.",
 					"gallery": {
 						"main": "museo/collezionealisio.jpg",
 						"copertina": "museo/collezionealisio.jpg",
@@ -335,8 +333,8 @@
 				},
 				{
 					"id": 10,
-					"titolo": "Androne delle Carrozze",
-					"descrizione": "Le carrozze degli Eletti del Popolo e della regina Maria Cristina di Savoia, stemmi reali e vicereali di grandi dimensioni, la cosiddetta <i>colonna infame</i>, ovvero la colonna davanti alla quale venivano pubblicamente umiliati i debitori insolventi, sono alcune testimonianze della storia di Napoli esposte nello spazio di passaggio verso la terrazza.",
+					"titolo": "Вестибюль карет",
+					"descrizione": "Кареты Избранных Народом и королевы Марии Кристины Савойской, королевские и вице-королевские гербы больших размеров, знаменитая колонна, перед которой публично унижались несостоятельные должники, представляют собой некоторые из следов истории Неаполя, выставленные в проходе на террасу.",
 					"gallery": {
 						"main": "museo/handronecarrozze.jpg",
 						"copertina": "museo/handronecarrozze.jpg",
@@ -352,8 +350,8 @@
 				},
 				{
 					"id": 19,
-					"titolo": "Sotterranei gotici",
-					"descrizione": "Le suggestive e architettonicamente ardite fondamenta trecentesche della Certosa ospitano una collezione di marmi: sculture, che abbracciano un arco temporale che va dal Trecento al Settecento, ed epigrafi che raccontano pagine di storia della città.",
+					"titolo": "Готические подземелья",
+					"descrizione": "В этих впечатляющих и смелых по архитектурному решению фундаментах Чертозы, построенных в XIV веке, расположена мраморная коллекция. Она состоит из скульптур, созданных от XIX и до XVII века и эпиграф, которые рассказывают историю Города.",
 					"gallery": {
 						"main": "museo/hsotterraneigotici.jpg",
 						"copertina": "museo/hsotterraneigotici.jpg",
