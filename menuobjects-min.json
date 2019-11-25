@@ -368,7 +368,7 @@
          {
             "id":2,
             "titolo":"Fahrpläne",
-            "descrizione":"",
+            "descrizione":"Vollen gebühr: € 6,00\n Ermäßigte tarife: € 3,00",
             "orariapertura":[
                {
                   "id":2,
@@ -603,8 +603,8 @@
                {
                   "id":4,
                   "giorno":"Mercredi",
-                  "orarioapertura":"17.20",
-                  "orariochiusura":"18.20"
+                  "orarioapertura":"",
+                  "orariochiusura":""
                },
                {
                   "id":5,
@@ -646,19 +646,27 @@
             "lingue":[
                {
                   "id":"it",
-                  "testo":"Seleziona l'italiano"
+                  "testo":"Italien"
                },
                {
                   "id":"en",
-                  "testo":"Seleziona l'inglese"
+                  "testo":"Anglaise"
                },
                {
                   "id":"es",
-                  "testo":"Seleziona lo spagnolo"
+                  "testo":"Espagnol"
                },
                {
                   "id":"fr",
-                  "testo":"Seleziona il francese"
+                  "testo":"Français"
+               },
+               {
+                  "id":"de",
+                  "testo":"Allemand"
+               },
+               {
+                  "id":"ru",
+                  "testo":"Russe"
                }
             ],
             "icona":"icn_4_selezionalingua"
@@ -666,7 +674,7 @@
          {
             "id":5,
             "titolo":"Credits",
-            "descrizione":"Credits in francese",
+            "descrizione":"",
             "icona":"icn_5_credits"
          },
          {
