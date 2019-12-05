@@ -107,12 +107,6 @@
             "titolo":"Credits",
             "descrizione":"",
             "icona":"icn_5_credits"
-         },
-         {
-            "id":6,
-            "titolo":"Esplora",
-            "descrizione":"Previsita",
-            "icona":"icn_6_previsita"
          }
       ]
    },
@@ -224,12 +218,6 @@
             "titolo":"Credits",
             "descrizione":"Credits in inglese",
             "icona":"icn_5_credits"
-         },
-         {
-            "id":6,
-            "titolo":"Explore",
-            "descrizione":"",
-            "icona":"icn_6_previsita"
          }
       ]
    },
@@ -341,12 +329,6 @@
             "titolo":"Credits",
             "descrizione":"",
             "icona":"icn_5_credits"
-         },
-         {
-            "id":6,
-            "titolo":"Explora",
-            "descrizione":"Explora",
-            "icona":"icn_6_previsita"
          }
       ]
    },
@@ -450,12 +432,6 @@
             "titolo":"Credits",
             "descrizione":"",
             "icona":"icn_5_credits"
-         },
-         {
-            "id":6,
-            "titolo":"Erforscht",
-            "descrizione":"Erforscht",
-            "icona":"icn_6_previsita"
          }
       ]
    },
@@ -559,12 +535,6 @@
             "titolo":"Credits",
             "descrizione":"Credits in francese",
             "icona":"icn_5_credits"
-         },
-         {
-            "id":6,
-            "titolo":"Previsita",
-            "descrizione":"Previsita",
-            "icona":"icn_6_previsita"
          }
       ]
    },
@@ -676,12 +646,6 @@
             "titolo":"Credits",
             "descrizione":"",
             "icona":"icn_5_credits"
-         },
-         {
-            "id":6,
-            "titolo":"Previsita",
-            "descrizione":"Previsita",
-            "icona":"icn_6_previsita"
          }
       ]
    }
